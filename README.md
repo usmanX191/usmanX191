@@ -1,3 +1,4 @@
-[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17imiwe%2Fcoding_by_ypixeljeff%2F&psig=AOvVaw1IA08BSHo7b_30nRfg9ySI&ust=1708968394711000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOizutCBx4QDFQAAAAAdAAAAABAJ)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17imiwe%2Fcoding_by_ypixeljeff%2F&psig=AOvVaw1IA08BSHo7b_30nRfg9ySI&ust=1708968394711000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOizutCBx4QDFQAAAAAdAAAAABAJ)](https://rishavchanda.io)
+[![MasterHead](
+![68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966](https://github.com/usmanX191/usmanX191/assets/123594984/0e7a0a1f-6466-4f6d-b97e-a86d1f8a585c))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Usman Mahmood</h1>
 <h3 align="center">A passionate FullStack Software Engineer from Pakistan</h3>
