@@ -1,6 +1,6 @@
 ![68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966](https://github.com/usmanX191/usmanX191/assets/123594984/0e7a0a1f-6466-4f6d-b97e-a86d1f8a585c)
 <h1 align="center">Hi 👋, I'm Usman Mahmood</h1>
-<h3 align="center">A passionate FullStack Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps and Machine Learning**
 
-- 💬 Ask me about **React Native, MERN**
+- 💬 Ask me about **React Native, MERN, Django**
 
 - 📫 How to reach me **usmanmehmood770@gmail.com**
 
@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/usmanX191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/usman-mahmood-1b54851a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://instagram.com/usman_x191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
