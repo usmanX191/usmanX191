@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **usmanmehmood770@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/usmanX191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usman-mahmood" height="30" width="40" /></a>
@@ -24,7 +22,7 @@
 <a href="https://instagram.com/usman_x191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman-mahmood" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="clanguage" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cpplanguage" width="40" height="40"/> </a>
