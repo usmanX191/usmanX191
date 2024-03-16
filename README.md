@@ -62,9 +62,13 @@
 
   <!-- Machine Learning and Data Science -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://via.placeholder.com/40?text=NumPy" alt="NumPy Logo" width="40" height="40"/ </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="70" height="40"/> </a> 
-  <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> <img src="https://via.placeholder.com/40?text=Sagemaker" alt="Sagemaker Logo" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
+</a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="70" height="50"/> </a> 
+  <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
+  <img src="https://d1.awsstatic.com/product-marketing/sagemaker/SageMaker-Icon-Resources-16x16.7a3abf42e0f5a5c2f5d4375a499ce6e7f033b1b3.png" alt="sagemaker" width="40" height="40"/>
+</a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/> </a> 
 
   <!-- Other Technologies -->
