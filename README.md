@@ -72,8 +72,8 @@
   <!-- Machine Learning and Data Science -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="70" height="50"/> </a> 
-  <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
-  <img src="https://d1.awsstatic.com/product-marketing/sagemaker/SageMaker-Icon-Resources-16x16.7a3abf42e0f5a5c2f5d4375a499ce6e7f033b1b3.png" alt="sagemaker" width="40" height="40"/>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://keras.io/img/logo.png" alt="Keras Logo" height="40">
 </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupyter" width="40" height="40"/>
