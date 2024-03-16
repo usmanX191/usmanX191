@@ -58,14 +58,14 @@
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="placeholder-jenkins-logo.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://via.placeholder.com/40?text=Jenkins" alt="Jenkins Logo" width="40" height="40"/> </a>
 
   <!-- Machine Learning and Data Science -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="placeholder-logo-url.svg" alt="numpy" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="placeholder-logo-url.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> <img src="placeholder-logo-url.svg" alt="sagemaker" width="40" height="40"/> </a> 
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="placeholder-logo-url.svg" alt="google colab" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/product-marketing/sagemaker/SageMaker-Icon-Resources-16x16.7a3abf42e0f5a5c2f5d4375a499ce6e7f033b1b3.png" alt="sagemaker" width="40" height="40"/> </a> 
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/> </a> 
 
   <!-- Other Technologies -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
