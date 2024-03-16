@@ -43,7 +43,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 154">
-  <circle cx="77" cy="77" fill="#05998b" r="77"/>
+  <circle cx="" cy="" fill="#05998b" r=""/>
   <path d="M81.375 18.667l-38.75 70H77.5l-3.875 46.666 38.75-70H77.5z" fill="#fff"/>
 </svg>![fastapi-1](https://github.com/usmanX191/usmanX191/assets/123594984/c87ab011-56fa-481d-99fb-2c466c45486c) </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="placeholder-logo-url.svg" alt="nestjs" width="40" height="40"/> </a>
