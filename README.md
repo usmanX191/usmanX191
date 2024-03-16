@@ -72,7 +72,7 @@
   <!-- Machine Learning and Data Science -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn Logo" height="40">
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn Logo" height="40" width= "60">
 </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://keras.io/img/logo.png" alt="Keras Logo" alt="keras" width="70" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
