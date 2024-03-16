@@ -1,5 +1,5 @@
 ![68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966](https://github.com/usmanX191/usmanX191/assets/123594984/0e7a0a1f-6466-4f6d-b97e-a86d1f8a585c)
-<h1 align="center">Hi👋, I'm Usman Mahmood</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Usman Mahmood</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/twitter/follow/usmanX191?logo=twitter&style=for-the-badge" alt="usman-mahmood"   </p>
 
 
-- 🔭 I’m currently working on **GPT-Translator App**
+- 🔭 I’m currently working on <a href="https://www.gpttranslator.co/">**GPT-Translator App**</a>
 
 - 🌱 I’m currently learning **DevOps and Machine Learning**
 
-- 💬 Ask me about **React Native, MERN, Django**
+- 💬 Ask me about anything related to **React Native, MERN, NEXT.Js, NEST.Js, Django, Fast-API**
 
 - 📫 How to reach me **usmanmehmood770@gmail.com**
 
@@ -22,7 +22,7 @@
 <a href="https://instagram.com/usman_x191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman-mahmood" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Langauges, Tools & Frameworks:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="clanguage" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cpplanguage" width="40" height="40"/> </a>
@@ -61,6 +61,9 @@
   height="40"/> </a> 
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes"
   width="40" height="40"/> </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="scikit-learn Logo" height="40">
+</a>
   <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="amplify" width="40" height="40"/> </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
