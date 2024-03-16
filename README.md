@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps and Machine Learning**
 
-- 💬 Ask me about anything related to **React Native, MERN, NEXT.Js, NEST.Js, Django, Fast-API**
+- 💬 Ask me about anything related to **React Native, MERN, NEXT.Js, NEST.Js, Django, FastAPI**
 
 - 📫 How to reach me **usmanmehmood770@gmail.com**
 
