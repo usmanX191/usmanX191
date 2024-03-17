@@ -24,7 +24,7 @@
 
 <h3 align="left">Tools & Technologies :</h3>
 <p>
-<h4 align="left" style="display: inline;">Languages : </h4><p style="display: inline;"><a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
+<h4 align="left" style="display: inline;">Languages : </h4><a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="clanguage" width="40" height="40"/>
   </a><a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cpplanguage" width="40" height="40"/>
@@ -37,7 +37,7 @@
   </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="python" width="40" height="40"/>
-  </a></p></p>
+  </a>
   
 <!--   Frontend Technologies -->
   <h4 align="left">Frontend Technologies : </h4><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
