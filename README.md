@@ -24,7 +24,7 @@
 
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left"> 
-  <p><h4 align="left">Languages : </h4><a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="clanguage" width="40" height="40"/> </a>
+  <p style="display: inline;"><h4 align="left">Languages : </h4><a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="clanguage" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cpplanguage" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40"/> </a>
    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/> </a>
