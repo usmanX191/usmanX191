@@ -23,8 +23,7 @@
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
-<p align="left"> 
-  <p style="display: inline-block;">
+
   <h4 align="left" style="display: inline; margin-right: 10px;">Languages:</h4>
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="clanguage" width="40" height="40"/>
@@ -41,7 +40,6 @@
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="python" width="40" height="40"/>
   </a>
-</p>
   
 <!--   Frontend Technologies -->
   <h4 align="left">Frontend Technologies : </h4><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -100,6 +98,5 @@
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="npm" width="40" height="40"/> </a>
   <a href="https://pypi.org/project/pip/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" alt="graphql" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
 
 
