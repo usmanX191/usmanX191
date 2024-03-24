@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/twitter/follow/usmanX191?logo=twitter&style=for-the-badge" alt="usman-mahmood"</p>
 <p align="left">
   <a href="https://discord.gg/YPghJsfM6C" target="blank">
-    <img src="https://img.shields.io/discord/1198679345733058765?logo=discord&style=for-the-badge" alt="Join My Discord server">
+    <img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=for-the-badge" alt="Join My Discord">
   </a>
 </p>
 
