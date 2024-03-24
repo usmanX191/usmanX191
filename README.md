@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/twitter/follow/usmanX191?logo=twitter&style=for-the-badge" alt="usman-mahmood"</p>
 <p align="left">
   <a href="https://discord.gg/f6cJ8wnF" target="_blank">
-    <img src="https://img.shields.io/discord/1198679345733058765?logo=discord&style=for-the-badge" alt="Join My Discord Server" />
+   <img src="https://dcbadge.vercel.app/api/shield/1198679345733058765?bot=true&theme=discord-inverted" alt="Discord inverted" />
   </a>
 </p>
 
