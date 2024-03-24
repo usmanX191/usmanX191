@@ -2,7 +2,7 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Usman Mahmood</h1>
 <h2 align="center">A passionate Full-Stack Software Engineer!</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanX191&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="usmanx191" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanX191&label=Profile%20views&color=36393A&style=for-the-badge" alt="usmanx191" /> </p>
 <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/static/v1?logo=twitter&label=&message=Follow Me on Twitter&color=36393A&style=for-the-badge" alt="Follow Me on Twitter">
 </a></p>
 <p align="left">
