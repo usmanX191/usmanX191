@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/twitter/follow/usmanX191?logo=twitter&style=for-the-badge" alt="usman-mahmood"</p>
 <p align="left">
-  <a href="https://discord.gg/f6cJ8wnF" target="_blank">
-   <img src="https://dcbadge.vercel.app/api/shield/1198679345733058765?bot=true&theme=discord-inverted" alt="Discord inverted" />
+  <a href="https://discord.gg/YPghJsfM6C" target="_blank">
+    <img src="https://img.shields.io/discord/1198679345733058765?logo=discord&style=for-the-badge" alt="Join My Discord server">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/usmanX191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usman-mahmood" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/usman-mahmood-1b54851a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-mahmood" height="30" width="40" /></a>
 <a href="https://instagram.com/usman_x191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman-mahmood" height="30" width="40" /></a>
-<a href="https://discord.com/users/1198679345733058765" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join Our Discord Server" height="40" width="40" /></a>
+<a href="https://discord.com/users/1198679345733058765" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join My Discord Server" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Tools & Technologies :</h3>
