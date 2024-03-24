@@ -2,8 +2,12 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Usman Mahmood</h1>
 <h2 align="center">A passionate Full-Stack Software Engineer!</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img src="https://discordapp.com/api/guilds/1198679345733058765/widget.png?style=banner4" alt="Discord Banner 4"/>
 <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/twitter/follow/usmanX191?logo=twitter&style=for-the-badge" alt="usman-mahmood"</p>
+<p align="left">
+  <a href="https://discord.gg/kwG8xR48" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Our%20Discord%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join My Discord Server">
+  </a>
+</p>
 
 
 - 🔭 I’m currently working on <a href="https://www.gpttranslator.co/">**GPT-Translator App**</a>
