@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/twitter/follow/usmanX191?logo=twitter&style=for-the-badge" alt="usman-mahmood"</p>
 <p align="left">
-  <a href="https://discord.gg/YPghJsfM6C" target="_blank">
+  <a href="https://discord.gg/YPghJsfM6C" target="blank">
     <img src="https://img.shields.io/discord/1198679345733058765?logo=discord&style=for-the-badge" alt="Join My Discord server">
   </a>
 </p>
