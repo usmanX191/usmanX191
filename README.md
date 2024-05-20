@@ -1,7 +1,13 @@
 ![68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966](https://github.com/usmanX191/usmanX191/assets/123594984/0e7a0a1f-6466-4f6d-b97e-a86d1f8a585c)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Usman Mahmood</h1>
-<!-- <h2 align="center">A passionate Full-Stack Software Engineer!</h2> -->
-<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;A+Full-Stack+Developer.;A+Promising+Machine+Learning+Engineer.;A+Budding+Devops+Engineer&width=1000&height=50&color=white"></a></h2>
+<h2 align="center">A passionate Full-Stack Software Engineer!</h2> -->
+<!-- <h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;A+Full-Stack+Developer.;A+Promising+Machine+Learning+Engineer.;A+Budding+Devops+Engineer&width=1000&height=50&color=white"></a></h2>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=A+Full-stack%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22"/></a>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanX191&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="usmanx191" /> </p>
