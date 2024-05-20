@@ -3,12 +3,6 @@
 <h2 align="center">A passionate Full-Stack Software Engineer!</h2> -->
 <!-- <h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;A+Full-Stack+Developer.;A+Promising+Machine+Learning+Engineer.;A+Budding+Devops+Engineer&width=1000&height=50&color=white"></a></h2>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A+Full-stack%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=white&vCenter=true&pause=1000&size=22"/></a>
-</p>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanX191&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="usmanx191" /> </p>
 <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/static/v1?logo=twitter&label=&message=Follow Me on Twitter&color=36393A&style=for-the-badge" alt="Follow Me on Twitter">
