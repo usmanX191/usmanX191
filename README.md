@@ -13,8 +13,6 @@
   </a>
 </p>
 
-
-
 - 🔭 I’m currently working on <a href="https://www.gpttranslator.co/">**GPT-Translator App**</a>
 
 - 🌱 I’m currently learning **DevOps and Machine Learning**
