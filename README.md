@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **DevOps and Machine Learning**
 
-- 💬 Ask me about anything related to **React Native, MERN, NEXT.Js, NEST.Js, Django, FastAPI**
+- 💬 Ask me about anything related to **React Native, MERN, NEXT.Js, Django, FastAPI**
 
 - 📫 How to reach me **usmanmehmood770@gmail.com**
   
@@ -65,7 +65,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="50"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" height="40"> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" style="height: 40px; width: auto;" > </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS Logo" height="40" width = "70"> </a>
+<!-- <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS Logo" height="40" width = "70"> </a> -->
 
   <!-- Databases -->
  <h4 align="left">Databases : </h4><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
