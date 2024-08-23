@@ -89,6 +89,18 @@
  -->
   <!-- Machine Learning and Data Science -->
 <h4 align="left">AI / Machine Learning :</h4>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy Logo" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas Logo" width="40" height="40"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib Logo" width="40" height="40"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="120" height="40"/>
+</a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
@@ -103,21 +115,6 @@
 </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy Logo" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas Logo" width="40" height="40"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib Logo" width="40" height="40"/>
-</a>
-<a href="https://www.anaconda.com/products/individual-edition" target="_blank" rel="noreferrer">
-  <img src="https://docs.anaconda.com/_images/Anaconda_Logo.png" alt="Anaconda Logo" width="120" height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo" width="40" height="40"/>
 </a>
 
   <!-- Other Technologies -->
