@@ -88,15 +88,37 @@
 <!-- <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="jenkins" width="40" height="40"/> </a>
  -->
   <!-- Machine Learning and Data Science -->
- <h4 align="left">AI / Machine Learning : </h4><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn Logo" height="40" width= "60">
+<h4 align="left">AI / Machine Learning :</h4>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://keras.io/img/logo.png" alt="Keras Logo" alt="keras" width="70" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn Logo" height="40" width="60"/>
+</a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://keras.io/img/logo.png" alt="Keras Logo" width="70" height="40"/>
+</a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupyter" width="40" height="40"/>
 </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/> </a> 
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/>
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy Logo" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas Logo" width="40" height="40"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib Logo" width="40" height="40"/>
+</a>
+<a href="https://www.anaconda.com/products/individual-edition" target="_blank" rel="noreferrer">
+  <img src="https://docs.anaconda.com/_images/Anaconda_Logo.png" alt="Anaconda Logo" width="120" height="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo" width="40" height="40"/>
+</a>
 
   <!-- Other Technologies -->
   <h4 align="left">Other Technologies : </h4><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
