@@ -123,8 +123,8 @@
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="npm" width="40" height="40"/> </a>
   <a href="https://pypi.org/project/pip/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" alt="graphql" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://platform.openai.com/docs" target="_blank" rel="noreferrer">
-  <img src="https://www.example.com/chatgpt-logo.png" alt="ChatGPT Logo" />
+  <a href="https://platform.openai.com/docs/api-reference/introduction" target="_blank" rel="noreferrer">
+  <img src="https://www.driftingruby.com/episodes/openai-api-integration/download_image.png" alt="ChatGPT Logo" />
 </a></p>
 
 
