@@ -131,7 +131,7 @@
     <img src="https://github.com/user-attachments/assets/f522c230-f4d9-482b-adf3-6f6c2b5a7af2" alt="open ai" width="100" height="40"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/logos/kafka.svg" alt="apache kafka" width="100" height="40"/>
+    <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/logos/kafka.svg" alt="apache kafka" width="80" height="30"/>
 </a>
 </p>
 
