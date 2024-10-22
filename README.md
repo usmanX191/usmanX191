@@ -127,7 +127,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a><a href="https://platform.openai.com/docs/api-reference/introduction" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/f522c230-f4d9-482b-adf3-6f6c2b5a7af2" alt="open ai" width="80" height="40"/>
 </a><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://kafka.apache.org/images/kafka-logo.png" alt="Kafka_Logo" height="40">
+    <img src="![ICON - White on Transparent](https://github.com/user-attachments/assets/0fd8e3d6-4b46-487d-8269-fd0079ab7573)" alt="Kafka_Logo" height="40">
 </a>
 </p>
 
