@@ -73,7 +73,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" height="40"> </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis_Logo" height="40"> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cassandra.apache.org/img/cassandra_logo.svg" alt="Cassandra_Logo" height="40"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Cassandra_Logo" height="40"> 
 </a>
 
   <!-- DevOps and Cloud Services -->
