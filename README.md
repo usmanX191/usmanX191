@@ -89,7 +89,8 @@
  <h4 align="left">Devops & Cloud Services : </h4><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"
   height="40"/> </a> 
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes"
-  width="40" height="40"/> </a>
+  width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/0fd8e3d6-4b46-487d-8269-fd0079ab7573" alt="Kafka_Logo" height="40"> </a> 
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="scikit-learn Logo" height="40">
 </a>
@@ -133,9 +134,7 @@
   <h4 align="left">Other Technologies : </h4><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="40" height="40"/> </a>
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="npm" width="40" height="40"/> </a>  <a href="https://pypi.org/project/pip/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/0fd8e3d6-4b46-487d-8269-fd0079ab7573" alt="Kafka_Logo" height="38">
-</a> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a><a href="https://platform.openai.com/docs/api-reference/introduction" target="_blank" rel="noreferrer">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a><a href="https://platform.openai.com/docs/api-reference/introduction" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/f522c230-f4d9-482b-adf3-6f6c2b5a7af2" alt="open ai" width="100" height="40"/>
 </a>
 </p>
