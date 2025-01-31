@@ -135,6 +135,9 @@
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/langchain-color.svg?alt=media&token=0a30862a-1796-4c35-afc2-c5bdebfe757d" alt="LangChain Logo" width="50" height="40"/>
 </a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/id12EQi2QW_logos.svg?alt=media&token=af3618e3-7baa-4ebe-b695-b7462d06da84" alt="LangChain Logo" width="50" height="40"/>
+</a>
 
   <!-- Other Technologies -->
   <h4 align="left">Other Technologies : </h4><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
