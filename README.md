@@ -100,7 +100,7 @@
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="jenkins" width="40" height="40"/> </a>
 <!-- <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="jenkins" width="40" height="40"/> </a>
  -->
-  <!-- Machine Learning and Data Science -->
+<!-- Machine Learning and Data Science -->
 <h4 align="left">AI / Machine Learning :</h4>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy Logo" width="40" height="40"/>
@@ -128,6 +128,12 @@
 </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/>
+</a>
+<a href="https://www.pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch Logo" width="40" height="40"/>
+</a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/vectorlogo/vectorlogo/master/logos/langchain.svg" alt="LangChain Logo" width="40" height="40"/>
 </a>
 
   <!-- Other Technologies -->
