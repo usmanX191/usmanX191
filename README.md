@@ -133,7 +133,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch Logo" width="30" height="30"/>
 </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/langchain-seeklogo.png?alt=media&token=c92bbc16-5135-4088-abd8-22d79db1eaf6" alt="LangChain Logo" width="100" height="40"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/langchain-seeklogo.png?alt=media&token=c92bbc16-5135-4088-abd8-22d79db1eaf6" alt="LangChain Logo" width="120" height="40"/>
 </a>
 
   <!-- Other Technologies -->
