@@ -18,7 +18,7 @@
 
 - ****🌱Currently Learning :**** **DevOps, Automation, Machine Learning, Generative AI, AI Assistants & Agents Development**
 
-- ****💬Ask Me About :**** **MERN, Django, FastAPI, Flask, Automation, DevOps, AI Assistants/Agents & Integrations**
+- ****💬Ask Me About :**** **MERN, Django, FastAPI, Flask, Automation, DevOps, AI Integrations, AI Assistants & Agents**
 
 - ****📫Contact Me :**** **usmanmehmood770@gmail.com**
   
