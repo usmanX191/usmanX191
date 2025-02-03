@@ -13,11 +13,11 @@
   </a>
 </p>
 
-- 🔭 Currently working on <a href="https://closer-academy-vermittlung-react.replit.app/">**Closure Academy AI Assistant Chatbot**</a>
+- 🔭 Currently Working on: <a href="https://closer-academy-vermittlung-react.replit.app/">**Closure Academy AI Assistant Chatbot**</a>
 
-- 🌱 Currently learning **DevOps, Automation, ML, GenAI, AI Assistants/Agents Development**
+- 🌱 Currently Learning: **DevOps, Automation, Machine Learning, Generative AI, AI Assistants & Agents Development**
 
-- 💬 Ask me about anything related to **MERN, Django, FastAPI, Flask, Automation, DevOps, AI Assistants/Agents & Integerations**
+- 💬 Ask Me About: **MERN, Django, FastAPI, Flask, Automation, DevOps, AI Assistants/Agents & Integrations**
 
 - 📫 How to reach me **usmanmehmood770@gmail.com**
   
