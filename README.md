@@ -3,7 +3,7 @@
 
 ![68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966](https://github.com/usmanX191/usmanX191/assets/123594984/0e7a0a1f-6466-4f6d-b97e-a86d1f8a585c)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanX191&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="usmanx191" /> </p>
 <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/static/v1?logo=twitter&label=&message=Follow Me on Twitter&color=36393A&style=for-the-badge" alt="Follow Me on Twitter">
 </a></p>
