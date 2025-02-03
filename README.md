@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on <a href="https://www.gpttranslator.co/">**GPT-Translator App**</a>
+- 🔭 I’m currently working on <a href="https://closer-academy-vermittlung-react.replit.app/">**Closure Academy AI Assistant Chatbot**</a>
 
 - 🌱 I’m currently learning **DevOps, Automation, ML and GenAI**
 
