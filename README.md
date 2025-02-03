@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🔭Currently Working on: <a href="https://closer-academy-vermittlung-react.replit.app/">**Closure Academy AI Assistant Chatbot**</a>
+- *🔭Currently Working on:* <a href="https://closer-academy-vermittlung-react.replit.app/">**Closure Academy AI Assistant Chatbot**</a>
 
 - 🌱Currently Learning: **DevOps, Automation, Machine Learning, Generative AI, AI Assistants & Agents Development**
 
