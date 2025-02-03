@@ -15,7 +15,7 @@
 
 - 🔭 Currently working on <a href="https://closer-academy-vermittlung-react.replit.app/">**Closure Academy AI Assistant Chatbot**</a>
 
-- 🌱 I’m currently learning **DevOps, Automation, ML and GenAI**
+- 🌱 Currently learning **DevOps, Automation, ML and GenAI, AI Assistant & Agents Development**
 
 - 💬 Ask me about anything related to **React Native, MERN, NEXT.Js, Django, FastAPI**
 
