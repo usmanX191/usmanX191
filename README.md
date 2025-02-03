@@ -15,9 +15,9 @@
 
 - 🔭 Currently working on <a href="https://closer-academy-vermittlung-react.replit.app/">**Closure Academy AI Assistant Chatbot**</a>
 
-- 🌱 Currently learning **DevOps, Automation, ML and GenAI, AI Assistant & Agents Development**
+- 🌱 Currently learning **DevOps, Automation, ML, GenAI, AI Assistant/Agents Development**
 
-- 💬 Ask me about anything related to **React Native, MERN, NEXT.Js, Django, FastAPI**
+- 💬 Ask me about anything related to **MERN, Django, FastAPI, Flask, Automation, DevOps, AI Assistants**
 
 - 📫 How to reach me **usmanmehmood770@gmail.com**
   
