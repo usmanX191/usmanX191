@@ -14,15 +14,15 @@
   </a>
 </p>
 
-- ****🔭Currently Working on :**** <a href="https://closer-academy-vermittlung-react.replit.app/">**Closure Academy AI Assistant Chatbot**</a>
+- ****🔭 Currently Working on :**** <a href="https://closer-academy-vermittlung-react.replit.app/">**Closure Academy AI Assistant Chatbot**</a>
 
-- ****🌱Currently Learning :**** **DevOps, Automation, Machine Learning, Generative AI, AI Assistants & Agents Development**
+- ****🌱 Currently Learning :**** **DevOps, Automation, Machine Learning, Generative AI, AI Assistants & Agents Development**
 
-- ****💬Ask Me About :**** **MERN, Django, FastAPI, Flask, Automation, DevOps, AI Assistants & Agents**
+- ****💬 Ask Me About :**** **MERN, Django, FastAPI, Flask, Automation, DevOps, AI Assistants & Agents**
 
-- ****📫Contact Me :**** **usmanmehmood770@gmail.com**
+- ****📫 Contact Me :**** **usmanmehmood770@gmail.com**
   
-- ****💼Visit My Website/Portfolio :**** [usmanmahmood.tech](https://usmanmahmood.tech/)
+- ****💼 Visit My Website/Portfolio :**** [usmanmahmood.tech](https://usmanmahmood.tech/)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
