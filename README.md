@@ -153,7 +153,7 @@
   <img src="https://www.tableau.com/themes/custom/tableau_www/logo.svg" alt="tableau" width="100" height="40"/>
 </a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-  <img src="https://learn.microsoft.com/en-us/media/logos/logo_power-bi.svg" alt="powerbi" width="100" height="40"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/power-bi-microsoft-seeklogo.svg?alt=media&token=e09975ec-bd4a-47d6-8020-eeca1ee1975b" alt="powerbi" width="100" height="40"/>
 </a>
 <a href="https://platform.openai.com/docs/api-reference/introduction" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/user-attachments/assets/f522c230-f4d9-482b-adf3-6f6c2b5a7af2" alt="openai" width="100" height="40"/> 
