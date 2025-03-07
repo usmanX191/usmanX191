@@ -83,7 +83,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Cassandra_Logo" height="40"> 
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" height="40"> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/postgresql-ar21.svg?alt=media&token=d242fb3f-4635-481d-b654-6e3e8d574c1b" alt="PostgreSQL Logo" height="40"> </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis_Logo" height="40"> </a>
 
   <!-- DevOps and Cloud Services -->
