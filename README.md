@@ -58,7 +58,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/nextjs-icon.svg?alt=media&token=c3b735ae-073a-4e11-8857-c04720fa2b00" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-bootstrap-48.png?alt=media&token=6b27837f-f183-496c-be85-2a4f9a5e7530" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material-UI" width="40" height="40"/> </a> 
 
