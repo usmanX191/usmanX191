@@ -134,7 +134,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch Logo" width="30" height="30"/>
 </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/langchain-seeklogo.svg?alt=media&token=a15595a6-18b6-4aba-8fe7-28c29a870783" alt="LangChain Logo" width="100" height="50"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/langchain-seeklogo.svg?alt=media&token=a15595a6-18b6-4aba-8fe7-28c29a870783" alt="LangChain Logo" width="100" height="40"/>
 <!-- <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/langchain-color.svg?alt=media&token=0a30862a-1796-4c35-afc2-c5bdebfe757d" alt="LangChain Logo" width="50" height="40"/>
 </a> -->
@@ -149,8 +149,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/idW4GZaB-5_logos.svg?alt=media&token=5d386b99-7afa-453a-897e-3a7ab4288451" alt="tableau" width="100" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/media/logos/logo_power-bi.svg" alt="powerbi" width="100" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/idW4GZaB-5_logos.svg?alt=media&token=5d386b99-7afa-453a-897e-3a7ab4288451" alt="tableau" width="100" height="40"/></a><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/en-us/media/logos/logo_power-bi.svg" alt="powerbi" width="100" height="40"/></a>
 <a href="https://platform.openai.com/docs/api-reference/introduction" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/f522c230-f4d9-482b-adf3-6f6c2b5a7af2" alt="openai" width="100" height="40"/> </a>
 </p>
 
