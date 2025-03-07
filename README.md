@@ -63,8 +63,7 @@
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material-UI" width="40" height="40"/> </a> 
 
   <!-- Backend Technologies -->
- <h4 align="left">Backend Technologies : </h4><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="50"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-express-js-50.png?alt=media&token=d84e4a84-ee94-4141-9da8-478cdec4070f" alt="express" width="80" height="40"/> </a> 
+ <h4 align="left">Backend Technologies : </h4><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="50"/> </a>  
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
