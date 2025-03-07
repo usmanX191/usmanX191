@@ -150,7 +150,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/idW4GZaB-5_logos.svg?alt=media&token=5d386b99-7afa-453a-897e-3a7ab4288451" alt="tableau" width="100" height="40"/>
+  <img src="https://www.tableau.com/themes/custom/tableau_www/logo.svg" alt="tableau" width="100" height="40"/>
 </a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/media/logos/logo_power-bi.svg" alt="powerbi" width="100" height="40"/>
