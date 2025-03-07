@@ -65,14 +65,14 @@
   <!-- Backend Technologies -->
  <h4 align="left">Backend Technologies : </h4><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="50"/> </a>  
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<!--     <img
+    <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
         alt="express"
         width="70"
         height="50"
         style="filter: brightness(0) invert(1);"
-    /> -->
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" style="filter: invert(100%);" width="40" height="40"/>
+    />
+  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-express-js-40.png?alt=media&token=0d9564fb-1403-4e30-b88f-22ba475e9f33" alt="expressjs" style="filter: invert(100%);" width="40" height="40"/>
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" height="40"> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" style="height: 40px; width: auto;" > </a>
