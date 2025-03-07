@@ -91,7 +91,7 @@
   height="40"/> </a> 
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes"
   width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Kafka_Logo" height="40"> </a> 
+    <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Kafka_Logo" width="60" height="50"> </a> 
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="scikit-learn Logo" height="40">
 </a>
