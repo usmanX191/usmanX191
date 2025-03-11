@@ -76,7 +76,7 @@
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" height="40"> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" style="height: 40px; width: auto;" > </a>
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask.svg?alt=media&token=3dd3c627-cb65-401e-9e59-95294ce161d6" alt="Flask Logo" height="50" width = "70"> </a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask Logo" height="50" width = "70"> </a>
 
   <!-- Databases -->
  <h4 align="left">Databases : </h4> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
