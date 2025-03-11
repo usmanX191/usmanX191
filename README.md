@@ -97,7 +97,7 @@
   <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="amplify" width="40" height="40"/> </a> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-replit-logo-48.svg?alt=media&token=a6198eac-d5a4-4205-992f-54c33f9c07d4" alt="replit" width="40" height="60"/> </a>
+<a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-replit-logo-48.svg?alt=media&token=a6198eac-d5a4-4205-992f-54c33f9c07d4" alt="replit" width="40" height="40"/> </a>
 
 <!-- Machine Learning and Data Science -->
 <h4 align="left">AI / Machine Learning :</h4>
