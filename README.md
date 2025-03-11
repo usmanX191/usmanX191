@@ -63,7 +63,7 @@
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material-UI" width="40" height="40"/> </a> 
 
   <!-- Backend Technologies -->
-<!-- <h4 align="left">Backend Technologies : </h4><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="50"/> </a>  
+<h4 align="left">Backend Technologies : </h4><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="50"/> </a>  
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
 <!--     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -71,28 +71,11 @@
         width="70"
         height="50"
         style="filter: brightness(0) invert(1);"
-    /> 
+    /> -->
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-express-js-40.png?alt=media&token=0d9564fb-1403-4e30-b88f-22ba475e9f33" alt="expressjs" style="filter: invert(100%);" width="40" height="40"/>
 </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" height="40"> </a><a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask Logo" height="50" width = "80"></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" style="height: 40px; width: auto;" ></a> -->
-<h4 align="left">Backend Technologies :</h4>
-<div style="display: flex; align-items: center; gap: 5px;">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="70" height="50"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-express-js-40.png?alt=media&token=0d9564fb-1403-4e30-b88f-22ba475e9f33" alt="Express.js" style="filter: invert(100%);" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="40"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-        <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask" height="50" width="80"/>
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" style="height: 40px; width: auto;"/>
-    </a>
-</div>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" height="40"> </a><a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask Logo" height="50" width = "80"></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" style="height: 40px; width: auto;" ></a>
+
   <!-- Databases -->
  <h4 align="left">Databases : </h4> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Cassandra_Logo" height="40"> 
