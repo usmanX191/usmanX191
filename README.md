@@ -22,7 +22,7 @@
 
 - ****📫 Contact Me :**** **usmanmehmood770@gmail.com**
   
-- ****💼 Visit My Website/Portfolio [Here](https://usmanmahmood.netlify.app/)****
+- ****💼 Visit My Website/Portfolio [Here](https://usmanmahmood.engineer/)****
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
