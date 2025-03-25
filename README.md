@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Full-Stack Software Engineer!</h2>
 
 <!-- ![68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966](https://github.com/usmanX191/usmanX191/assets/123594984/0e7a0a1f-6466-4f6d-b97e-a86d1f8a585c) -->
-![joshua-reddekopp-SyYmXSDnJ54-unsplash](https://github.com/user-attachments/assets/3962d393-0d6b-4bd7-8ee7-b73d145ce00e)
+![l](https://github.com/user-attachments/assets/d623f865-5d8a-472d-8d2f-bb4b8eb40e54)
 
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
