@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- ****🔭 Currently Working on :**** <a href="https://adf-hubspot-marketing-assistant-frontend.replit.app/#/">**American Digital Force - AI Assistant🤖**</a>
+- ****🔭 Currently Working on :**** <a href="https://adf-hubspot-marketing-assistant-frontend.replit.app/#/">**American Digital Force - AI Assistant**</a>
 
 - ****🌱 Currently Learning :**** **DevOps, Automation, Machine Learning, Generative AI, AI Assistants & Agents Development**
 
