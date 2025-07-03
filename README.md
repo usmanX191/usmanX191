@@ -17,7 +17,7 @@
 
 - ****🔭 Currently Working on :**** <a href="https://adf-creative-marketer-ai-assistant-frontend.replit.app/">**American Digital Force - AI Assistant**</a>
 
-- ****🌱 Currently Learning :**** **DevOps, Automation, Machine Learning, Generative AI, AI Assistants & Agents Development**
+- ****🌱 Currently Learning :**** **DevOps, Automation, LLMs (Langchian), Generative AI, AI Assistants & Agents Development**
 
 - ****💬 Ask Me About :**** **MERN, Django, FastAPI, Flask, Automation, DevOps, AI Assistants & Agents**
 
