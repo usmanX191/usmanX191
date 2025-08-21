@@ -25,6 +25,52 @@
   
 - ****💼 Visit My Website/Portfolio [Here](https://usmanmahmood.engineer/)****
 
+## 🚀 What I Can Do
+
+<details>
+<summary><b>🔥 Click to see my professional capabilities and services</b></summary>
+
+### 💻 **Full-Stack Development**
+- **Frontend Development**: React.js, Next.js, React Native, TypeScript/JavaScript applications
+- **Backend Development**: Node.js/Express, Python (Django, FastAPI, Flask), RESTful APIs
+- **Database Design**: PostgreSQL, MongoDB, MySQL, Redis, Cassandra
+- **UI/UX Implementation**: Responsive design with Tailwind CSS, Bootstrap, Material-UI
+
+### 🤖 **AI & Machine Learning Solutions**
+- **LLM Integration**: Custom AI assistants and chatbots using OpenAI, LangChain
+- **Generative AI Applications**: Content generation, automated workflows
+- **Data Science**: Analysis and visualization with Pandas, NumPy, Matplotlib, Seaborn
+- **ML Model Development**: TensorFlow, PyTorch, Scikit-learn implementations
+- **AI Agents**: Intelligent automation and decision-making systems
+
+### ☁️ **DevOps & Cloud Infrastructure**
+- **Containerization**: Docker containerization and orchestration
+- **Cloud Deployment**: AWS, Google Cloud Platform infrastructure setup
+- **CI/CD Pipelines**: Jenkins, GitLab automation workflows
+- **Infrastructure as Code**: Terraform provisioning and management
+- **Monitoring & Scaling**: Kubernetes cluster management
+
+### 🔧 **Automation & Integration**
+- **Workflow Automation**: N8N, custom Python automation scripts
+- **API Integrations**: Third-party service connections and data synchronization
+- **Process Optimization**: Business workflow streamlining and efficiency improvements
+- **Data Pipeline Development**: ETL processes and real-time data processing
+
+### 📊 **Data Analytics & Business Intelligence**
+- **Dashboard Creation**: Tableau, Power BI interactive visualizations
+- **Data Analysis**: Statistical analysis and insights generation
+- **Reporting Systems**: Automated reporting and KPI tracking
+- **Business Intelligence**: Data-driven decision support systems
+
+### 🎯 **Specialized Services**
+- **AI Assistant Development**: Custom chatbots and virtual assistants
+- **API Development**: GraphQL and REST API design and implementation
+- **Mobile App Development**: React Native cross-platform applications
+- **System Architecture**: Scalable application design and optimization
+- **Technical Consultation**: Technology stack selection and best practices
+
+</details>
+
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/usmanX191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usman-mahmood" height="30" width="40" /></a>
