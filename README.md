@@ -2,7 +2,7 @@
 <!-- <h2 align="center">A passionate Full-Stack Software Engineer!</h2> -->
 
 <!-- ![68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966](https://github.com/usmanX191/usmanX191/assets/123594984/0e7a0a1f-6466-4f6d-b97e-a86d1f8a585c) -->
-<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/7edfb2bd-88c4-4502-9f77-75962e331af1" />
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/151b1bc7-a8a8-4501-b154-3e3878c50856" />
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
