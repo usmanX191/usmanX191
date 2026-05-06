@@ -49,6 +49,7 @@ Links:
 ## Tools & Technologies
 
 ### 💻 Languages
+
 <table><tr>
 <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/><br/>Python</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-javascript%20(1).svg?alt=media&token=53625aab-b650-454a-a72b-99ed928471bc" alt="JavaScript" width="45" height="45"/><br/>JavaScript</td>
@@ -66,6 +67,7 @@ Links:
 ---
 
 ### 🤖 AI / Agentic Systems & LLMs
+
 <table><tr>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-chatgpt.svg?alt=media&token=6be4a5ae-268d-42d5-a20f-cc1f6448e3b6" alt="OpenAI API" width="45" height="45"/><br/>OpenAI</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Claude_Logo_1.png?alt=media&token=0ba5f60c-0fa6-4e7e-80c2-dd80e7e6e004" alt="Claude AI" width="45" height="45"/><br/>Claude</td>
@@ -79,6 +81,7 @@ Links:
 </tr></table>
 
 ### ⚙️ Automation, No-Code / Low-Code & Microsoft Power Platform
+
 <table><tr>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/n8n-color.svg?alt=media&token=d0da5d9d-5a7e-4963-bca1-385fa25b1b82" alt="N8N" width="45" height="45"/><br/>n8n</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/make-color.svg?alt=media&token=0e549496-e98a-4a09-9c8d-32502018e276" alt="Make.com" width="45" height="45"/><br/>Make</td>
@@ -94,6 +97,7 @@ Links:
 </tr></table>
 
 ### 🌐 Frontend Technologies
+
 <table><tr>
 <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/><br/>React</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/nextjs-icon.svg?alt=media&token=c3b735ae-073a-4e11-8857-c04720fa2b00" alt="Next.js" width="45" height="45"/><br/>Next.js</td>
@@ -105,6 +109,7 @@ Links:
 </tr></table>
 
 ### 🔧 Backend Technologies & Frameworks
+
 <table><tr>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/FastAPI.png?alt=media&token=780ecc59-584f-4280-8c9e-b80659f06675" alt="FastAPI" width="45" height="45"/><br/>FastAPI</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask" width="45" height="45"/><br/>Flask</td>
@@ -114,6 +119,7 @@ Links:
 </tr></table>
 
 ### 🗄️ Databases & Storage
+
 <table><tr>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/postgresql-ar21.svg?alt=media&token=d242fb3f-4635-481d-b654-6e3e8d574c1b" alt="PostgreSQL" width="45" height="45"/><br/>PostgreSQL</td>
 <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/><br/>MongoDB</td>
@@ -126,6 +132,7 @@ Links:
 </tr></table>
 
 ### ☁️ DevOps, Cloud & Infrastructure
+
 <table><tr>
 <td align="center" width="55"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="45" height="45"/><br/>AWS</td>
 <td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Connect.png?alt=media&token=3d2c018c-c3c3-468f-b773-ece7d16039dc" alt="Amazon Connect" width="45" height="45"/><br/>Connect</td>
@@ -144,6 +151,7 @@ Links:
 </tr></table>
 
 ### 🧠 Machine Learning & Data Science
+
 <table><tr>
 <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/><br/>TensorFlow</td>
 <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/><br/>PyTorch</td>
@@ -158,6 +166,7 @@ Links:
 </tr></table>
 
 ### 📊 CRM, Communications & Business Tools
+
 <table><tr>
 <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="HubSpot" width="45" height="45"/><br/>HubSpot</td>
 <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="45" height="45"/><br/>Salesforce</td>
@@ -174,6 +183,7 @@ Links:
 </tr></table>
 
 ### 📈 Analytics & Visualization
+
 <table><tr>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/power-bi-microsoft-seeklogo.svg?alt=media&token=e09975ec-bd4a-47d6-8020-eeca1ee1975b" alt="Power BI" width="45" height="45"/><br/>Power BI</td>
 <td align="center" width="60"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.svg" alt="Tableau" width="45" height="45"/><br/>Tableau</td>
@@ -182,15 +192,17 @@ Links:
 </tr></table>
 
 ### 🌐 Web Scraping & Data Pipelines
+
 <table><tr>
 <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Beautiful Soup / Python" width="45" height="45"/><br/>BeautifulSoup</td>
-<td align="center" width="60"><img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="45" height="45"/><br/>Scrapy</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/cdnlogo.com_scrapy.png?alt=media&token=59341091-a58a-4fdd-a7f1-660848e52cb1" alt="Scrapy" width="45" height="45"/><br/>Scrapy</td>
 <td align="center" width="60"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="45" height="45"/><br/>Playwright</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Apache Kafka" width="45" height="45"/><br/>Kafka</td>
 <td align="center" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="45" height="45"/><br/>Spark</td>
 </tr></table>
 
 ### 🎬 Generative AI & Media Tools
+
 <table><tr>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/OpenAI_Symbol_1.png?alt=media&token=923cee6f-664e-4bc5-b6d7-e444366e1978" alt="Sora 2 API" width="45" height="45"/><br/>Sora 2</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Google-Veo-3-Logo-PNG.png?alt=media&token=030b28ed-ec90-4f28-8ca5-208301e8c3f3" alt="Google Veo 3.1 API" width="45" height="45"/><br/>Google Veo</td>
@@ -198,6 +210,7 @@ Links:
 </tr></table>
 
 ### 🧰 Other Tools & Utilities
+
 <table><tr>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-git.svg?alt=media&token=cc19536a-db3e-4519-98b4-5ed836e0d5e1" alt="Git" width="45" height="45"/><br/>Git</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-github%20(1).svg?alt=media&token=cd3bd5d3-eb77-4824-aaec-6a8118e69b70" alt="GitHub Actions" width="45" height="45"/><br/>GitHub</td>
@@ -211,33 +224,36 @@ Links:
 </tr></table>
 
 ---
+
 🎯 Core Expertise
 
-| Expertise Area | Proficiency Level |
-|---|---|
-| Agentic AI & LLM Systems | ⭐⭐⭐⭐⭐ Expert |
-| Voice AI & Chatbots | ⭐⭐⭐⭐ Advanced |
+| Expertise Area                   | Proficiency Level |
+| -------------------------------- | ----------------- |
+| Agentic AI & LLM Systems         | ⭐⭐⭐⭐⭐ Expert |
+| Voice AI & Chatbots              | ⭐⭐⭐⭐ Advanced |
 | n8n / Make / Workflow Automation | ⭐⭐⭐⭐⭐ Expert |
-| AWS Cloud Architecture | ⭐⭐⭐⭐ Advanced |
-| FastAPI / Python Backend | ⭐⭐⭐⭐⭐ Expert |
-| LangChain / RAG / MCP Servers | ⭐⭐⭐⭐ Advanced |
-| CRM Integrations | ⭐⭐⭐⭐⭐ Expert |
-| Data Pipelines (Kafka/Spark) | ⭐⭐⭐ Proficient |
-| Microsoft Power Platform | ⭐⭐⭐⭐ Advanced |
+| AWS Cloud Architecture           | ⭐⭐⭐⭐ Advanced |
+| FastAPI / Python Backend         | ⭐⭐⭐⭐⭐ Expert |
+| LangChain / RAG / MCP Servers    | ⭐⭐⭐⭐ Advanced |
+| CRM Integrations                 | ⭐⭐⭐⭐⭐ Expert |
+| Data Pipelines (Kafka/Spark)     | ⭐⭐⭐ Proficient |
+| Microsoft Power Platform         | ⭐⭐⭐⭐ Advanced |
+
 📜 Certifications
 
-| Certification | Issuer | Year |
-|---|---|---|
-| 🏆 Model Context Protocol: Advanced Topics | Anthropic | 2026 |
-| Introduction to Model Context Protocol | Anthropic | 2025 |
-| IBM Full Stack Software Developer | IBM | 2024 |
-| IBM Backend Development | IBM | 2024 |
-| AWS Cloud Technical Essentials | Amazon Web Services | 2024 |
-| AWS Beginner to Intermediate (EC2, IAM, ELB, ASG, Route 53) | Amazon Web Services | 2023 |
-| Machine Learning Specialization | Stanford University / Coursera | 2023 |
-| Microsoft 365 Fundamentals | Microsoft | 2023 |
-| Meta React Native | Meta | 2023 |
-| Samsung Innovation Campus – AI | Samsung | 2022 |
+| Certification                                               | Issuer                         | Year |
+| ----------------------------------------------------------- | ------------------------------ | ---- |
+| 🏆 Model Context Protocol: Advanced Topics                  | Anthropic                      | 2026 |
+| Introduction to Model Context Protocol                      | Anthropic                      | 2025 |
+| IBM Full Stack Software Developer                           | IBM                            | 2024 |
+| IBM Backend Development                                     | IBM                            | 2024 |
+| AWS Cloud Technical Essentials                              | Amazon Web Services            | 2024 |
+| AWS Beginner to Intermediate (EC2, IAM, ELB, ASG, Route 53) | Amazon Web Services            | 2023 |
+| Machine Learning Specialization                             | Stanford University / Coursera | 2023 |
+| Microsoft 365 Fundamentals                                  | Microsoft                      | 2023 |
+| Meta React Native                                           | Meta                           | 2023 |
+| Samsung Innovation Campus – AI                              | Samsung                        | 2022 |
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=footer&text=Let's%20Build%20Intelligent%20Systems%20Together&fontSize=20&fontColor=ffffff&animation=twinkling"/>
 </p>
