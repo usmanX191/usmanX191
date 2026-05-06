@@ -34,11 +34,12 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
 
 ---
 
-<h3 align="left">🌐 Connect with me (Horizontal):</h3>
+<h3 align="left">🌐 Connect with me:</h3>
+
 <p align="left">
-  <a href="https://twitter.com/usmanX191" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/usman-mahmood-1b54851a0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/usman_x191" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://twitter.com/usmanX191" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/usman-mahmood-1b54851a0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/usman_x191" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://discord.com/users/1198679345733058765" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
   <a href="https://github.com/usmanX191" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
@@ -48,6 +49,7 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
 ## 🛠️ Tools & Technologies
 
 ### 💻 Languages
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-javascript%20(1).svg?alt=media&token=53625aab-b650-454a-a72b-99ed928471bc" alt="JavaScript" width="40" height="40"/>
@@ -62,7 +64,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="SQL" width="40" height="40"/>
 </p>
 
+---
+
 ### 🤖 AI / Agentic Systems & LLMs
+
 <p align="left">
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-chatgpt.svg?alt=media&token=6be4a5ae-268d-42d5-a20f-cc1f6448e3b6" alt="OpenAI API" width="40" height="40"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Claude_Logo_1.png?alt=media&token=0ba5f60c-0fa6-4e7e-80c2-dd80e7e6e004" alt="Claude AI" width="40" height="40"/>
@@ -75,7 +80,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="40" height="40"/>
 </p>
 
+---
+
 ### ⚙️ Automation, No-Code / Low-Code & Microsoft Power Platform
+
 <p align="left">
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/n8n-color.svg?alt=media&token=d0da5d9d-5a7e-4963-bca1-385fa25b1b82" alt="N8N" width="40" height="40"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/make-color.svg?alt=media&token=0e549496-e98a-4a09-9c8d-32502018e276" alt="Make.com" width="40" height="40"/>
@@ -89,7 +97,12 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Apify_apify-symbol-safe_1.png?alt=media&token=7946bfc9-4593-4b6d-a22c-fdafca3947e9" alt="Apify" width="40" height="40"/>
 </p>
 
+---
+
 ### 🦾 OpenClaw & Intelligent Agent Platforms
+
+> Building production-grade agentic pipelines with **OpenClaw** for robotic process automation and multi-agent orchestration, and designing enterprise conversational AI with **Microsoft Copilot Studio** integrated into Power Platform ecosystems.
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-copilot.png" alt="Microsoft Copilot Studio" width="40" height="40"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/microsoft-power-platform-seeklogo.png?alt=media&token=632040d4-13ac-4924-a3c3-0475b2f95310" alt="Power Platform" width="40" height="40"/>
@@ -109,7 +122,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
 - 🧠 Integrated Copilot Studio bots with SharePoint, Teams, Dataverse & Power Automate flows
 - 🧠 Deployed customer-facing conversational agents with Azure OpenAI backend
 
+---
+
 ### 🌐 Frontend Technologies
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/nextjs-icon.svg?alt=media&token=c3b735ae-073a-4e11-8857-c04720fa2b00" alt="Next.js" width="40" height="40"/>
@@ -120,7 +136,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-bootstrap-48.png?alt=media&token=6b27837f-f183-496c-be85-2a4f9a5e7530" alt="Bootstrap" width="40" height="40"/>
 </p>
 
+---
+
 ### 🔧 Backend Technologies & Frameworks
+
 <p align="left">
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/FastAPI.png?alt=media&token=780ecc59-584f-4280-8c9e-b80659f06675" alt="FastAPI" width="40" height="40"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask" width="40" height="40"/>
@@ -129,7 +148,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
 </p>
 
+---
+
 ### 🗄️ Databases & Storage
+
 <p align="left">
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/postgresql-ar21.svg?alt=media&token=d242fb3f-4635-481d-b654-6e3e8d574c1b" alt="PostgreSQL" width="60" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -141,7 +163,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
 </p>
 
+---
+
 ### ☁️ DevOps, Cloud & Infrastructure
+
 <p align="left">
   <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
@@ -159,7 +184,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
 </p>
 
+---
+
 ### 🧠 Machine Learning & Data Science
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
@@ -173,7 +201,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS SageMaker" width="40" height="40"/>
 </p>
 
+---
+
 ### 📊 CRM, Communications & Business Tools
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="HubSpot" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="40" height="40"/>
@@ -189,7 +220,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Zoom.png?alt=media&token=acb5f858-5217-4835-8523-65722d461890" alt="Zoom API" width="40" height="40"/>
 </p>
 
+---
+
 ### 📈 Analytics & Visualization
+
 <p align="left">
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/power-bi-microsoft-seeklogo.svg?alt=media&token=e09975ec-bd4a-47d6-8020-eeca1ee1975b" alt="Power BI" width="80" height="40"/>
   <img src="https://www.tableau.com/themes/custom/tableau_www/logo.svg" alt="Tableau" width="80" height="40"/>
@@ -197,7 +231,10 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
 </p>
 
+---
+
 ### 🌐 Web Scraping & Data Pipelines
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Beautiful Soup / Python" width="40" height="40"/>
   <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="80" height="40"/>
@@ -206,14 +243,20 @@ I'm a **results-driven AI Automation Engineer** specializing in architecting and
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="60" height="40"/>
 </p>
 
+---
+
 ### 🎬 Generative AI & Media Tools
+
 <p align="left">
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/OpenAI_Symbol_1.png?alt=media&token=923cee6f-664e-4bc5-b6d7-e444366e1978" alt="Sora 2 API" width="40" height="40"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Google-Veo-3-Logo-PNG.png?alt=media&token=030b28ed-ec90-4f28-8ca5-208301e8c3f3" alt="Google Veo 3.1 API" width="40" height="40"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/elevenlabs.svg?alt=media&token=5e4f44b4-678a-4a5e-9867-9fd2afbb6f56" alt="ElevenLabs" width="40" height="40"/>
 </p>
 
+---
+
 ### 🧰 Other Tools & Utilities
+
 <p align="left">
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-git.svg?alt=media&token=cc19536a-db3e-4519-98b4-5ed836e0d5e1" alt="Git" width="40" height="40"/>
   <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-github%20(1).svg?alt=media&token=cd3bd5d3-eb77-4824-aaec-6a8118e69b70" alt="GitHub Actions" width="40" height="40"/>
