@@ -73,7 +73,7 @@ Links:
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/p.png?alt=media&token=cf48252e-e2bb-4c56-a43f-3b63fa053942" alt="Pipedream" width="45" height="45"/><br/>Pipedream</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/microsoft-power-platform-seeklogo.png?alt=media&token=632040d4-13ac-4924-a3c3-0475b2f95310" alt="Microsoft Power Platform" width="45" height="45"/><br/>Power Platform</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/microsoft-power-automate-seeklogo.png?alt=media&token=9b1df79d-dd32-43de-8ba1-095e509fed01" alt="Power Automate" width="45" height="45"/><br/>Power Automate</td>
-<td align="center" width="60"><img src="https://img.icons8.com/color/48/power-apps.png" alt="Power Apps" width="45" height="45"/><br/>Power Apps</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-microsoft-power-apps-80.png?alt=media&token=86d5de39-130c-41c2-8824-92b307ee6137" alt="Power Apps" width="45" height="45"/><br/>Power Apps</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/logic-apps.png?alt=media&token=1e2fecdb-7128-4ce9-a987-79c11664f345" alt="Azure Logic Apps" width="45" height="45"/><br/>Logic Apps</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/copilot-icon.png?alt=media&token=2c50bdca-e3c0-457b-b783-9849af8f9188" alt="Copilot Studio" width="45" height="45"/><br/>Copilot Studio</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/openclaw-seeklogo.png?alt=media&token=9779f830-e781-4e8c-950e-bab66dde1ce6" alt="OpenClaw" width="45" height="45"/><br/>OpenClaw</td>
@@ -142,7 +142,7 @@ Links:
 <td align="center" width="60"><img src="https://keras.io/img/logo.png" alt="Keras" width="45" height="45"/><br/>Keras</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/numpy-svgrepo-com.svg?alt=media&token=2e495eee-7594-4649-829c-5d7c7eb6780f" alt="NumPy" width="45" height="45"/><br/>NumPy</td>
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/pandas.svg?alt=media&token=2648f66d-a2d1-41eb-9a8a-1be20b49b8c7" alt="Pandas" width="45" height="45"/><br/>Pandas</td>
-<td align="center" width="60"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="45" height="45"/><br/>Matplotlib</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-matplotlib-240.png?alt=media&token=28b10e08-f139-41e5-8071-946542cb5c6d" alt="Matplotlib" width="45" height="45"/><br/>Matplotlib</td>
 <td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="45" height="45"/><br/>Jupyter</td>
 <td align="center" width="60"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="45" height="45"/><br/>Colab</td>
 <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS SageMaker" width="45" height="45"/><br/>SageMaker</td>
