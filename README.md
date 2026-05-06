@@ -32,82 +32,165 @@ I'm a results-driven AI Automation Engineer specializing in architecting and dep
 🛠️ **Tools & Technologies**
 
 ### 💻 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-javascript%20(1).svg?alt=media&token=53625aab-b650-454a-a72b-99ed928471bc" alt="JavaScript" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-typescript.svg?alt=media&token=3e30f05e-1c43-4fad-92af-bb3623562f9b" alt="TypeScript" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="SQL" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/><br/>Python</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-javascript%20(1).svg?alt=media&token=53625aab-b650-454a-a72b-99ed928471bc" alt="JavaScript" width="45" height="45"/><br/>JavaScript</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-typescript.svg?alt=media&token=3e30f05e-1c43-4fad-92af-bb3623562f9b" alt="TypeScript" width="45" height="45"/><br/>TypeScript</td>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/><br/>Node.js</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="45" height="45"/><br/>C</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" width="45" height="45"/><br/>C++</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="45" height="45"/><br/>Java</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" width="45" height="45"/><br/>Go</td>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/><br/>HTML5</td>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/><br/>CSS3</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="SQL" width="45" height="45"/><br/>SQL</td>
+</tr></table>
 
 ---
 
 ### 🤖 AI / Agentic Systems & LLMs
-<p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-chatgpt.svg?alt=media&token=6be4a5ae-268d-42d5-a20f-cc1f6448e3b6" alt="OpenAI API" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Claude_Logo_1.png?alt=media&token=0ba5f60c-0fa6-4e7e-80c2-dd80e7e6e004" alt="Claude AI" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Langchain--Streamline-Simple-Icons.svg?alt=media&token=fbfca4f9-7e9d-4589-bd12-d0f22c1aaa97" alt="LangChain" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Bedrock" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/va-square-1.png?alt=media&token=02df77ac-584a-400a-ab7c-fcc8405b772d" alt="VAPI" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/elevenlabs.svg?alt=media&token=5e4f44b4-678a-4a5e-9867-9fd2afbb6f56" alt="ElevenLabs" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Pinecone_Logo_1.png?alt=media&token=67af605b-457e-4499-aba6-34dec0f7cd1b" alt="Pinecone" width="45" height="45"/> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="45" height="45"/> <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-chatgpt.svg?alt=media&token=6be4a5ae-268d-42d5-a20f-cc1f6448e3b6" alt="OpenAI API" width="45" height="45"/><br/>OpenAI</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Claude_Logo_1.png?alt=media&token=0ba5f60c-0fa6-4e7e-80c2-dd80e7e6e004" alt="Claude AI" width="45" height="45"/><br/>Claude</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Langchain--Streamline-Simple-Icons.svg?alt=media&token=fbfca4f9-7e9d-4589-bd12-d0f22c1aaa97" alt="LangChain" width="45" height="45"/><br/>LangChain</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Bedrock" width="45" height="45"/><br/>Bedrock</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/va-square-1.png?alt=media&token=02df77ac-584a-400a-ab7c-fcc8405b772d" alt="VAPI" width="45" height="45"/><br/>VAPI</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/elevenlabs.svg?alt=media&token=5e4f44b4-678a-4a5e-9867-9fd2afbb6f56" alt="ElevenLabs" width="45" height="45"/><br/>ElevenLabs</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Pinecone_Logo_1.png?alt=media&token=67af605b-457e-4499-aba6-34dec0f7cd1b" alt="Pinecone" width="45" height="45"/><br/>Pinecone</td>
+<td align="center" width="60"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="45" height="45"/><br/>HF</td>
+<td align="center" width="60"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="45" height="45"/><br/>Gemini</td>
+</tr></table>
 
----
 ### ⚙️ Automation, No-Code / Low-Code & Microsoft Power Platform
-<p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/n8n-color.svg?alt=media&token=d0da5d9d-5a7e-4963-bca1-385fa25b1b82" alt="N8N" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/make-color.svg?alt=media&token=0e549496-e98a-4a09-9c8d-32502018e276" alt="Make.com" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/manychat.svg?alt=media&token=6d670fed-08e8-4546-94e5-93e85a376bab" alt="ManyChat" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/p.png?alt=media&token=cf48252e-e2bb-4c56-a43f-3b63fa053942" alt="Pipedream" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/microsoft-power-platform-seeklogo.png?alt=media&token=632040d4-13ac-4924-a3c3-0475b2f95310" alt="Microsoft Power Platform" width="45" height="45"/> <img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" alt="Power Automate" width="45" height="45"/> <img src="https://img.icons8.com/color/48/power-apps.png" alt="Power Apps" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Logic Apps" width="45" height="45"/> <img src="https://img.icons8.com/color/48/microsoft-copilot.png" alt="Microsoft Copilot Studio" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Apify_apify-symbol-safe_1.png?alt=media&token=7946bfc9-4593-4b6d-a22c-fdafca3947e9" alt="Apify" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/n8n-color.svg?alt=media&token=d0da5d9d-5a7e-4963-bca1-385fa25b1b82" alt="N8N" width="45" height="45"/><br/>n8n</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/make-color.svg?alt=media&token=0e549496-e98a-4a09-9c8d-32502018e276" alt="Make.com" width="45" height="45"/><br/>Make</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/manychat.svg?alt=media&token=6d670fed-08e8-4546-94e5-93e85a376bab" alt="ManyChat" width="45" height="45"/><br/>ManyChat</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/p.png?alt=media&token=cf48252e-e2bb-4c56-a43f-3b63fa053942" alt="Pipedream" width="45" height="45"/><br/>Pipedream</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/microsoft-power-platform-seeklogo.png?alt=media&token=632040d4-13ac-4924-a3c3-0475b2f95310" alt="Microsoft Power Platform" width="45" height="45"/><br/>Power Platform</td>
+<td align="center" width="60"><img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" alt="Power Automate" width="45" height="45"/><br/>Automate</td>
+<td align="center" width="60"><img src="https://img.icons8.com/color/48/power-apps.png" alt="Power Apps" width="45" height="45"/><br/>Power Apps</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Logic Apps" width="45" height="45"/><br/>Azure</td>
+<td align="center" width="60"><img src="https://img.icons8.com/color/48/microsoft-copilot.png" alt="Microsoft Copilot Studio" width="45" height="45"/><br/>Copilot</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Apify_apify-symbol-safe_1.png?alt=media&token=7946bfc9-4593-4b6d-a22c-fdafca3947e9" alt="Apify" width="45" height="45"/><br/>Apify</td>
+</tr></table>
 
----
 ### 🌐 Frontend Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/nextjs-icon.svg?alt=media&token=c3b735ae-073a-4e11-8857-c04720fa2b00" alt="Next.js" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Tailwind%20CSS.png?alt=media&token=e9b0b2c0-458d-44c7-be6f-2fadd8ec8a66" alt="Tailwind CSS" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-bootstrap-48.png?alt=media&token=6b27837f-f183-496c-be85-2a4f9a5e7530" alt="Bootstrap" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/><br/>React</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/nextjs-icon.svg?alt=media&token=c3b735ae-073a-4e11-8857-c04720fa2b00" alt="Next.js" width="45" height="45"/><br/>Next.js</td>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/><br/>Redux</td>
+<td align="center" width="60"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="45" height="45"/><br/>React Native</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Tailwind%20CSS.png?alt=media&token=e9b0b2c0-458d-44c7-be6f-2fadd8ec8a66" alt="Tailwind CSS" width="45" height="45"/><br/>Tailwind</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" width="45" height="45"/><br/>Material UI</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-bootstrap-48.png?alt=media&token=6b27837f-f183-496c-be85-2a4f9a5e7530" alt="Bootstrap" width="45" height="45"/><br/>Bootstrap</td>
+</tr></table>
 
----
 ### 🔧 Backend Technologies & Frameworks
-<p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/FastAPI.png?alt=media&token=780ecc59-584f-4280-8c9e-b80659f06675" alt="FastAPI" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask" width="45" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-express-js-40.png?alt=media&token=0d9564fb-1403-4e30-b88f-22ba475e9f33" alt="Express.js" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/FastAPI.png?alt=media&token=780ecc59-584f-4280-8c9e-b80659f06675" alt="FastAPI" width="45" height="45"/><br/>FastAPI</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask" width="45" height="45"/><br/>Flask</td>
+<td align="center" width="60"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/><br/>Django</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-express-js-40.png?alt=media&token=0d9564fb-1403-4e30-b88f-22ba475e9f33" alt="Express.js" width="45" height="45"/><br/>Express.js</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/><br/>GraphQL</td>
+</tr></table>
 
----
 ### 🗄️ Databases & Storage
-<p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/postgresql-ar21.svg?alt=media&token=d242fb3f-4635-481d-b654-6e3e8d574c1b" alt="PostgreSQL" width="50" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis" width="45" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Cassandra" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Pinecone_Logo_1.png?alt=media&token=67af605b-457e-4499-aba6-34dec0f7cd1b" alt="Pinecone" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/postgresql-ar21.svg?alt=media&token=d242fb3f-4635-481d-b654-6e3e8d574c1b" alt="PostgreSQL" width="45" height="45"/><br/>PostgreSQL</td>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/><br/>MongoDB</td>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/><br/>MySQL</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis" width="45" height="45"/><br/>Redis</td>
+<td align="center" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Cassandra" width="45" height="45"/><br/>Cassandra</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="45" height="45"/><br/>Supabase</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Pinecone_Logo_1.png?alt=media&token=67af605b-457e-4499-aba6-34dec0f7cd1b" alt="Pinecone" width="45" height="45"/><br/>Pinecone</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="45" height="45"/><br/>BigQuery</td>
+</tr></table>
 
----
 ### ☁️ DevOps, Cloud & Infrastructure
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" alt="Kubernetes" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Apache Kafka" width="45" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" height="45"/> <img src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" alt="Nginx" width="50" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab CI/CD" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-terraform.svg?alt=media&token=82b6d259-8527-4bf9-bd94-01cf81552536" alt="Terraform" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-heroku.svg?alt=media&token=de204412-5b92-4a58-9e7f-a7d82816aac9" alt="Heroku" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-replit-logo-48.svg?alt=media&token=a6198eac-d5a4-4205-992f-54c33f9c07d4" alt="Replit" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="55"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="45" height="45"/><br/>AWS</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45"/><br/>Azure</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/><br/>GCP</td>
+<td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/><br/>Docker</td>
+<td align="center" width="55"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" alt="Kubernetes" width="45" height="45"/><br/>K8s</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Apache Kafka" width="45" height="45"/><br/>Kafka</td>
+<td align="center" width="55"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="45" height="45"/><br/>Spark</td>
+<td align="center" width="55"><img src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" alt="Nginx" width="45" height="45"/><br/>Nginx</td>
+<td align="center" width="55"><img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" width="45" height="45"/><br/>Jenkins</td>
+<td align="center" width="55"><img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab CI/CD" width="45" height="45"/><br/>GitLab CI</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-terraform.svg?alt=media&token=82b6d259-8527-4bf9-bd94-01cf81552536" alt="Terraform" width="45" height="45"/><br/>Terraform</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-heroku.svg?alt=media&token=de204412-5b92-4a58-9e7f-a7d82816aac9" alt="Heroku" width="45" height="45"/><br/>Heroku</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-replit-logo-48.svg?alt=media&token=a6198eac-d5a4-4205-992f-54c33f9c07d4" alt="Replit" width="45" height="45"/><br/>Replit</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="45" height="45"/><br/>Vercel</td>
+</tr></table>
 
----
 ### 🧠 Machine Learning & Data Science
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="50" height="45"/> <img src="https://keras.io/img/logo.png" alt="Keras" width="55" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/numpy-svgrepo-com.svg?alt=media&token=2e495eee-7594-4649-829c-5d7c7eb6780f" alt="NumPy" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/pandas.svg?alt=media&token=2648f66d-a2d1-41eb-9a8a-1be20b49b8c7" alt="Pandas" width="45" height="45"/> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="45" height="45"/> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS SageMaker" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/><br/>TensorFlow</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/><br/>PyTorch</td>
+<td align="center" width="60"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="45" height="45"/><br/>Scikit-Learn</td>
+<td align="center" width="60"><img src="https://keras.io/img/logo.png" alt="Keras" width="45" height="45"/><br/>Keras</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/numpy-svgrepo-com.svg?alt=media&token=2e495eee-7594-4649-829c-5d7c7eb6780f" alt="NumPy" width="45" height="45"/><br/>NumPy</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/pandas.svg?alt=media&token=2648f66d-a2d1-41eb-9a8a-1be20b49b8c7" alt="Pandas" width="45" height="45"/><br/>Pandas</td>
+<td align="center" width="60"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="45" height="45"/><br/>Matplotlib</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="45" height="45"/><br/>Jupyter</td>
+<td align="center" width="60"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="45" height="45"/><br/>Colab</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS SageMaker" width="45" height="45"/><br/>SageMaker</td>
+</tr></table>
 
----
 ### 📊 CRM, Communications & Business Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="HubSpot" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/zoho/zoho-icon.svg" alt="Zoho CRM" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/highlevel.png?alt=media&token=659a03ef-1b8e-4d35-8945-cc54a6e319f3" alt="GoHighLevel" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/sendgrid/sendgrid-icon.svg" alt="SendGrid" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/apolloio/apolloio-icon.svg" alt="Apollo.io" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="Airtable" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack API" width="45" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp API" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Zoom.png?alt=media&token=acb5f858-5217-4835-8523-65722d461890" alt="Zoom API" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="HubSpot" width="45" height="45"/><br/>HubSpot</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="45" height="45"/><br/>Salesforce</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/zoho/zoho-icon.svg" alt="Zoho CRM" width="45" height="45"/><br/>Zoho</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/highlevel.png?alt=media&token=659a03ef-1b8e-4d35-8945-cc54a6e319f3" alt="GoHighLevel" width="45" height="45"/><br/>HighLevel</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio" width="45" height="45"/><br/>Twilio</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/sendgrid/sendgrid-icon.svg" alt="SendGrid" width="45" height="45"/><br/>SendGrid</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="45" height="45"/><br/>Stripe</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/apolloio/apolloio-icon.svg" alt="Apollo.io" width="45" height="45"/><br/>Apollo</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="Airtable" width="45" height="45"/><br/>Airtable</td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack API" width="45" height="45"/><br/>Slack</td>
+<td align="center" width="55"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp API" width="45" height="45"/><br/>WhatsApp</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Zoom.png?alt=media&token=acb5f858-5217-4835-8523-65722d461890" alt="Zoom API" width="45" height="45"/><br/>Zoom</td>
+</tr></table>
 
----
 ### 📈 Analytics & Visualization
-<p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/power-bi-microsoft-seeklogo.svg?alt=media&token=e09975ec-bd4a-47d6-8020-eeca1ee1975b" alt="Power BI" width="55" height="45"/> <img src="https://www.tableau.com/themes/custom/tableau_www/logo.svg" alt="Tableau" width="55" height="45"/> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="45" height="45"/> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/power-bi-microsoft-seeklogo.svg?alt=media&token=e09975ec-bd4a-47d6-8020-eeca1ee1975b" alt="Power BI" width="45" height="45"/><br/>Power BI</td>
+<td align="center" width="60"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.svg" alt="Tableau" width="45" height="45"/><br/>Tableau</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="45" height="45"/><br/>BigQuery</td>
+<td align="center" width="60"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="45" height="45"/><br/>Seaborn</td>
+</tr></table>
 
----
 ### 🌐 Web Scraping & Data Pipelines
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Beautiful Soup / Python" width="45" height="45"/> <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="55" height="45"/> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Apache Kafka" width="45" height="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Beautiful Soup / Python" width="45" height="45"/><br/>BeautifulSoup</td>
+<td align="center" width="60"><img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="45" height="45"/><br/>Scrapy</td>
+<td align="center" width="60"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="45" height="45"/><br/>Playwright</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Apache Kafka" width="45" height="45"/><br/>Kafka</td>
+<td align="center" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="45" height="45"/><br/>Spark</td>
+</tr></table>
 
----
 ### 🎬 Generative AI & Media Tools
-<p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/OpenAI_Symbol_1.png?alt=media&token=923cee6f-664e-4bc5-b6d7-e444366e1978" alt="Sora 2 API" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Google-Veo-3-Logo-PNG.png?alt=media&token=030b28ed-ec90-4f28-8ca5-208301e8c3f3" alt="Google Veo 3.1 API" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/elevenlabs.svg?alt=media&token=5e4f44b4-678a-4a5e-9867-9fd2afbb6f56" alt="ElevenLabs" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/OpenAI_Symbol_1.png?alt=media&token=923cee6f-664e-4bc5-b6d7-e444366e1978" alt="Sora 2 API" width="45" height="45"/><br/>Sora 2</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Google-Veo-3-Logo-PNG.png?alt=media&token=030b28ed-ec90-4f28-8ca5-208301e8c3f3" alt="Google Veo 3.1 API" width="45" height="45"/><br/>Google Veo</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/elevenlabs.svg?alt=media&token=5e4f44b4-678a-4a5e-9867-9fd2afbb6f56" alt="ElevenLabs" width="45" height="45"/><br/>ElevenLabs</td>
+</tr></table>
 
----
 ### 🧰 Other Tools & Utilities
-<p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-git.svg?alt=media&token=cc19536a-db3e-4519-98b4-5ed836e0d5e1" alt="Git" width="45" height="45"/> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-github%20(1).svg?alt=media&token=cd3bd5d3-eb77-4824-aaec-6a8118e69b70" alt="GitHub Actions" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="45" height="45"/> <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="Yarn" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" alt="pip" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello API" width="45" height="45"/>
-</p>
+<table><tr>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-git.svg?alt=media&token=cc19536a-db3e-4519-98b4-5ed836e0d5e1" alt="Git" width="45" height="45"/><br/>Git</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-github%20(1).svg?alt=media&token=cd3bd5d3-eb77-4824-aaec-6a8118e69b70" alt="GitHub Actions" width="45" height="45"/><br/>GitHub</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/><br/>Postman</td>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/><br/>Linux</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="45" height="45"/><br/>npm</td>
+<td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="Yarn" width="45" height="45"/><br/>Yarn</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" alt="pip" width="45" height="45"/><br/>pip</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/><br/>GraphQL</td>
+<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello API" width="45" height="45"/><br/>Trello</td>
+</tr></table>
 
 ---
 🎯 Core Expertise
