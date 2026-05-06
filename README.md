@@ -11,25 +11,42 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usmanX191&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="usmanx191" />
 </p>
-🚀 About Me
-I'm a results-driven AI Automation Engineer specializing in architecting and deploying end-to-end intelligent systems. I combine full-stack engineering with advanced AI/ML integration to deliver data-driven solutions that eliminate manual processes and accelerate revenue outcomes.
-🏢 Currently at: Premier NX — Building enterprise-grade multi-cloud AI voice agents & MCP Server architectures on AWS + Azure
-🤖 Specialty: Agentic AI systems, Voice AI (VAPI/Twilio), LLM orchestration (LangChain, OpenAI, Claude), n8n automation workflows
-🔭 Latest Build: Production-grade AWS Connect IVR using Amazon Nova 2 Sonic (Bedrock) + KVS — reduced turn latency from 35–45s → 2–3s
-🌱 Deep-diving into: MCP Servers, AWS Bedrock AgentCore, Azure AI Foundry, Microsoft Copilot Studio, Multi-Agent Frameworks
-💡 Philosophy: Build self-learning pipelines that turn raw data into intelligent, automated action
-📫 Reach me: usmanmehmood770@gmail.com · contact@usmanmahmood.tech
-🌐 Portfolio: usmanmahmood.tech
+## About Me
+
+I am a results-driven AI Automation Engineer focused on building end-to-end intelligent systems that remove manual work and improve business outcomes. My work combines full-stack engineering, LLM orchestration, voice AI, and workflow automation to deliver production-grade systems across AWS, Azure, and Microsoft ecosystems.
+
+Current focus:
+
+- Building enterprise-grade multi-cloud AI voice agents and MCP server architectures at Premier NX.
+- Designing production workflows with VAPI, Twilio, LangChain, OpenAI, Claude, and n8n.
+- Shipping low-latency voice infrastructure and automation systems, including AWS Connect IVR with Amazon Nova Sonic and Kinesis Video Streams.
+- Expanding into MCP servers, AWS Bedrock AgentCore, Azure AI Foundry, Microsoft Copilot Studio, and multi-agent frameworks.
+
+Approach:
+
+- Build systems that are observable, maintainable, and ready for production.
+- Prefer automation that turns raw data into reliable, intelligent action.
+
+Links:
+
+- Portfolio: [usmanmahmood.tech](https://usmanmahmood.tech/)
+- Email: [contact@usmanmahmood.tech](mailto:contact@usmanmahmood.tech)
+- Email: [usmanmehmood770@gmail.com](mailto:usmanmehmood770@gmail.com)
 <br/>
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/usmanX191" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;
-  <a href="https://linkedin.com/in/usman-mahmood-1b54851a0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;
-  <a href="https://instagram.com/usman_x191" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp;
-  <a href="https://discord.com/users/1198679345733058765" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>&nbsp;
-  <a href="https://github.com/usmanX191" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
-🛠️ **Tools & Technologies**
+<h3 align="left">🌐 Connect with me</h3>
+<table>
+<tr>
+<td align="center"><a href="https://twitter.com/usmanX191" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32" width="42" /></a><br/>Twitter</td>
+<td align="center"><a href="https://linkedin.com/in/usman-mahmood-1b54851a0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="42" /></a><br/>LinkedIn</td>
+<td align="center"><a href="https://instagram.com/usman_x191" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="42" /></a><br/>Instagram</td>
+<td align="center"><a href="https://discord.com/users/1198679345733058765" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="32" width="42" /></a><br/>Discord</td>
+<td align="center"><a href="https://github.com/usmanX191" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="32" width="42" /></a><br/>GitHub</td>
+<td align="center"><a href="https://usmanmahmood.tech/" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="32" width="42" /></a><br/>Portfolio</td>
+<td align="center"><a href="mailto:contact@usmanmahmood.tech"><img src="https://img.icons8.com/fluency/48/new-post.png" alt="Email" height="32" width="42" /></a><br/>Email</td>
+</tr>
+</table>
+
+## Tools & Technologies
 
 ### 💻 Languages
 <table><tr>
@@ -70,9 +87,10 @@ I'm a results-driven AI Automation Engineer specializing in architecting and dep
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/microsoft-power-platform-seeklogo.png?alt=media&token=632040d4-13ac-4924-a3c3-0475b2f95310" alt="Microsoft Power Platform" width="45" height="45"/><br/>Power Platform</td>
 <td align="center" width="60"><img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" alt="Power Automate" width="45" height="45"/><br/>Automate</td>
 <td align="center" width="60"><img src="https://img.icons8.com/color/48/power-apps.png" alt="Power Apps" width="45" height="45"/><br/>Power Apps</td>
-<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Logic Apps" width="45" height="45"/><br/>Azure</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/logic-apps.png?alt=media&token=1e2fecdb-7128-4ce9-a987-79c11664f345" alt="Azure Logic Apps" width="45" height="45"/><br/>Logic Apps</td>
 <td align="center" width="60"><img src="https://img.icons8.com/color/48/microsoft-copilot.png" alt="Microsoft Copilot Studio" width="45" height="45"/><br/>Copilot</td>
-<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Apify_apify-symbol-safe_1.png?alt=media&token=7946bfc9-4593-4b6d-a22c-fdafca3947e9" alt="Apify" width="45" height="45"/><br/>Apify</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/power-platform.png?alt=media&token=9dc7bec2-2118-418d-b263-661da866bd9b" alt="Power Platform" width="45" height="45"/><br/>Power Platform</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-microsoft-power-apps-80.png?alt=media&token=86d5de39-130c-41c2-8824-92b307ee6137" alt="Power Apps" width="45" height="45"/><br/>Power Apps</td>
 </tr></table>
 
 ### 🌐 Frontend Technologies
@@ -110,19 +128,19 @@ I'm a results-driven AI Automation Engineer specializing in architecting and dep
 ### ☁️ DevOps, Cloud & Infrastructure
 <table><tr>
 <td align="center" width="55"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="45" height="45"/><br/>AWS</td>
-<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45"/><br/>Azure</td>
-<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/><br/>GCP</td>
-<td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/><br/>Docker</td>
-<td align="center" width="55"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" alt="Kubernetes" width="45" height="45"/><br/>K8s</td>
-<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Apache Kafka" width="45" height="45"/><br/>Kafka</td>
-<td align="center" width="55"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="45" height="45"/><br/>Spark</td>
-<td align="center" width="55"><img src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" alt="Nginx" width="45" height="45"/><br/>Nginx</td>
-<td align="center" width="55"><img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" width="45" height="45"/><br/>Jenkins</td>
-<td align="center" width="55"><img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab CI/CD" width="45" height="45"/><br/>GitLab CI</td>
-<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-terraform.svg?alt=media&token=82b6d259-8527-4bf9-bd94-01cf81552536" alt="Terraform" width="45" height="45"/><br/>Terraform</td>
-<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-heroku.svg?alt=media&token=de204412-5b92-4a58-9e7f-a7d82816aac9" alt="Heroku" width="45" height="45"/><br/>Heroku</td>
-<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-replit-logo-48.svg?alt=media&token=a6198eac-d5a4-4205-992f-54c33f9c07d4" alt="Replit" width="45" height="45"/><br/>Replit</td>
-<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="45" height="45"/><br/>Vercel</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Connect.png?alt=media&token=3d2c018c-c3c3-468f-b773-ece7d16039dc" alt="Amazon Connect" width="45" height="45"/><br/>Connect</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/DynamoDB.png?alt=media&token=f34b335f-fad5-4a9f-afa9-bb8b6870fbb2" alt="DynamoDB" width="45" height="45"/><br/>DynamoDB</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/EC2.png?alt=media&token=bd857417-1e2f-4ef1-8997-c5a7501e110d" alt="EC2" width="45" height="45"/><br/>EC2</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Kinesis.png?alt=media&token=21fe8d2f-63a2-46fa-bda1-3198b9a8b528" alt="Kinesis" width="45" height="45"/><br/>Kinesis</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Kinesis%20Video%20Streams.png?alt=media&token=72e3b133-83a0-4c85-aea7-8457fb0cb5e7" alt="Kinesis Video Streams" width="45" height="45"/><br/>KVS</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Lambda.png?alt=media&token=ec9c2c08-6597-4962-925d-101b63ef8207" alt="Lambda" width="45" height="45"/><br/>Lambda</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Step%20Functions.png?alt=media&token=9d130b16-e5b1-4d97-bad7-7457eb5e1cc8" alt="Step Functions" width="45" height="45"/><br/>Step Fn</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/API%20Gateway.png?alt=media&token=af5fb1fb-c935-4c2a-916e-0787686c420a" alt="API Gateway" width="45" height="45"/><br/>API GW</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Identity%20and%20Access%20Management.png?alt=media&token=b545d055-af07-4cab-9bfe-582166baa3fe" alt="IAM" width="45" height="45"/><br/>IAM</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/CloudWatch.png?alt=media&token=e1b0649d-45d4-45dc-aa42-8231e2e68b82" alt="CloudWatch" width="45" height="45"/><br/>CloudWatch</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Redshift.png?alt=media&token=f9312630-fac0-4903-bc12-f516df06ee28" alt="Redshift" width="45" height="45"/><br/>Redshift</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Simple%20Queue%20Service.png?alt=media&token=86fa1d1b-4b78-4e79-8cee-e2eabc094c7e" alt="SQS" width="45" height="45"/><br/>SQS</td>
+<td align="center" width="55"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/SageMaker.png?alt=media&token=fcae2e24-d929-45df-a856-a25cad68b8f8" alt="SageMaker" width="45" height="45"/><br/>SageMaker</td>
 </tr></table>
 
 ### 🧠 Machine Learning & Data Science
