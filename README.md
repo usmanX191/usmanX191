@@ -145,7 +145,7 @@ Links:
 <td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-matplotlib-240.png?alt=media&token=28b10e08-f139-41e5-8071-946542cb5c6d" alt="Matplotlib" width="45" height="45"/><br/>Matplotlib</td>
 <td align="center" width="60"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="45" height="45"/><br/>Jupyter</td>
 <td align="center" width="60"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="45" height="45"/><br/>Colab</td>
-<td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS SageMaker" width="45" height="45"/><br/>SageMaker</td>
+<td align="center" width="60"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/SageMaker.png?alt=media&token=fcae2e24-d929-45df-a856-a25cad68b8f8" alt="AWS SageMaker" width="45" height="45"/><br/>SageMaker</td>
 </tr></table>
 
 ### **📊 CRM, Communications & Business Tools**
