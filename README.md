@@ -1,157 +1,273 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Usman Mahmood.</h1>
-<!-- <h2 align="center">A passionate Full-Stack Software Engineer!</h2> -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Usman Mahmood
+</h1>
 
-<!-- ![68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966](https://github.com/usmanX191/usmanX191/assets/123594984/0e7a0a1f-6466-4f6d-b97e-a86d1f8a585c) -->
-<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/151b1bc7-a8a8-4501-b154-3e3878c50856" />
+<h3 align="center">🤖 Senior AI Automation Engineer · Agentic AI Systems Architect · LLM Integration Expert</h3>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanX191&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="usmanx191" /> </p>
-<!-- <p align="left"> <a href="https://twitter.com/usmanX191" target="blank"><img src="https://img.shields.io/static/v1?logo=twitter&label=&message=Follow Me on Twitter&color=36393A&style=for-the-badge" alt="Follow Me on Twitter">
-</a></p> -->
-<!-- <p align="left">
-  <a href="https://discord.gg/YPghJsfM6C" target="blank">
-    <img src="https://img.shields.io/static/v1?logo=discord&label=&message=Join My Discord Server&color=36393A&style=for-the-badge" alt="Join My Discord">
-  </a>
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+Automation+Engineer+%7C+LLM+Expert;End-to-End+Agentic+AI+Systems+Builder;Voice+AI+%7C+Chatbots+%7C+Workflow+Automation;Cloud-Native+AI+%7C+FastAPI+%7C+Python;n8n+%7C+LangChain+%7C+MCP+Servers" alt="Typing SVG" />
+</p>
 
-- ****🔭 Currently Working on :**** <a href="https://signup.copecart.com/copecart">**Enterprise AI Sales Automation & Lead Qualification System – CopeCart**</a>
+<img width="100%" alt="Usman Mahmood Banner" src="https://github.com/user-attachments/assets/151b1bc7-a8a8-4501-b154-3e3878c50856" />
 
-- ****🌱 Currently Learning :**** **DevOps, Automation, LLMs (Langchain), Generative AI, AI Assistants & Agents Development**
+<br/>
 
-- ****💬 Ask Me About :**** **Django, FastAPI, Flask, NodeJs, LLMs, Automations, DevOps, AI Assistants & Agents**
+<img align="right" alt="AI Engineering" width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
-- ****📫 Contact Me :**** **usmanmehmood770@gmail.com**
-  
-- ****💼 Visit My Website/Portfolio [Here](https://usmanmahmood.engineer/)****
-
-<h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://twitter.com/usmanX191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usman-mahmood" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/usman-mahmood-1b54851a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-mahmood" height="30" width="40" /></a>
-<a href="https://instagram.com/usman_x191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman-mahmood" height="30" width="40" /></a>
-<a href="https://discord.com/users/1198679345733058765" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join My Discord Server" height="40" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=usmanX191&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="usmanx191" />
 </p>
 
-<h3 align="left">Tools & Technologies :</h3>
+---
+
+### 🚀 About Me
+
+I'm a **results-driven AI Automation Engineer** specializing in architecting and deploying end-to-end intelligent systems. I combine full-stack engineering with advanced AI/ML integration to deliver data-driven solutions that eliminate manual processes and accelerate revenue outcomes.
+
+- 🏢 **Currently at:** [Premier NX](https://premiernx.com/) — Building enterprise-grade multi-cloud AI voice agents & MCP Server architectures on AWS + Azure
+- 🤖 **Specialty:** Agentic AI systems, Voice AI (VAPI/Twilio), LLM orchestration (LangChain, OpenAI, Claude), n8n automation workflows
+- 🔭 **Latest Build:** Production-grade AWS Connect IVR using Amazon Nova 2 Sonic (Bedrock) + KVS — reduced turn latency from **35–45s → 2–3s**
+- 🌱 **Deep-diving into:** MCP Servers, AWS Bedrock AgentCore, Azure AI Foundry, Multi-Agent Frameworks
+- 💡 **Philosophy:** Build self-learning pipelines that turn raw data into intelligent, automated action
+- 📫 **Reach me:** [usmanmehmood770@gmail.com](mailto:usmanmehmood770@gmail.com) · [contact@usmanmahmood.tech](mailto:contact@usmanmahmood.tech)
+- 🌐 **Portfolio:** [usmanmahmood.tech](https://usmanmahmood.tech/)
+
+<br/>
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/usmanX191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmanX191" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/usman-mahmood-1b54851a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-mahmood" height="30" width="40" /></a>
+  <a href="https://instagram.com/usman_x191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman-mahmood" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1198679345733058765" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://github.com/usmanX191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 💻 Languages
 <p>
-<h4 align="left" style="display: inline;">Languages : </h4><a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="clanguage" width="40" height="40"/>
-  </a><a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cpplanguage" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="python" width="40" height="40"/>
-  </a>
-  
-<!--   Frontend Technologies -->
-  <h4 align="left">Frontend Technologies : </h4><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-javascript%20(1).svg?alt=media&token=53625aab-b650-454a-a72b-99ed928471bc" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-typescript.svg?alt=media&token=3e30f05e-1c43-4fad-92af-bb3623562f9b" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/nextjs-icon.svg?alt=media&token=c3b735ae-073a-4e11-8857-c04720fa2b00" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-bootstrap-48.png?alt=media&token=6b27837f-f183-496c-be85-2a4f9a5e7530" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Tailwind%20CSS.png?alt=media&token=e9b0b2c0-458d-44c7-be6f-2fadd8ec8a66" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material-UI" width="40" height="40"/> </a> 
-
-  <!-- Backend Technologies -->
-<h4 align="left">Backend Technologies : </h4><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="50"/> </a>  
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<!--     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="70"
-        height="50"
-        style="filter: brightness(0) invert(1);"
-    /> -->
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-express-js-40.png?alt=media&token=0d9564fb-1403-4e30-b88f-22ba475e9f33" alt="expressjs" style="filter: invert(100%);" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" height="40"> </a> <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask Logo" height="60" width="75"> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" style="height: 40px; width: auto;" > </a>
-
-
-
-  <!-- Databases -->
- <h4 align="left">Databases : </h4> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Cassandra_Logo" height="40"> 
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/postgresql-ar21.svg?alt=media&token=d242fb3f-4635-481d-b654-6e3e8d574c1b" alt="PostgreSQL Logo" height="40"> </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis_Logo" height="40"> </a>
-
-  <!-- DevOps and Cloud Services -->
- <h4 align="left">Devops & Cloud Services : </h4><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"
-  height="40"/> </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes"
-  width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Kafka_Logo" width="60" height="50"> </a>
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="scikit-learn Logo" height="40">
-</a>
-  <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="amplify" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-terraform.svg?alt=media&token=82b6d259-8527-4bf9-bd94-01cf81552536" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-heroku.svg?alt=media&token=de204412-5b92-4a58-9e7f-a7d82816aac9" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-replit-logo-48.svg?alt=media&token=a6198eac-d5a4-4205-992f-54c33f9c07d4" alt="replit" width="40" height="40"/> </a>
-
-<!-- Machine Learning and Data Science -->
-<h4 align="left">AI / Machine Learning :</h4>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy Logo" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas Logo" width="40" height="40"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib Logo" width="40" height="40"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="120" height="40"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn Logo" height="40" width="60"/>
-</a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer">
-  <img src="https://keras.io/img/logo.png" alt="Keras Logo" width="70" height="40"/>
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupyter" width="40" height="40"/>
-</a>
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="google colab" width="40" height="40"/>
-</a>
-<a href="https://www.pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch Logo" width="30" height="30"/>
-</a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/langchain-seeklogo.svg?alt=media&token=a15595a6-18b6-4aba-8fe7-28c29a870783" alt="LangChain Logo" width="100" height="40"/>
-<!-- <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/langchain-color.svg?alt=media&token=0a30862a-1796-4c35-afc2-c5bdebfe757d" alt="LangChain Logo" width="50" height="40"/>
-</a> -->
-</a>
-
-  <!-- Other Technologies -->
-  <h4 align="left">Other Technologies:</h4> 
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="40" height="40"/> </a>
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://pypi.org/project/pip/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" alt="pip" width="40" height="40"/> </a> <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/n8n-seeklogo.png?alt=media&token=cc656f0b-7af7-4b2a-b8c0-cd3dea5ca606" alt="N8N" width="100" height="40"/> </a> <a href="https://platform.openai.com/docs/api-reference/introduction" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-chatgpt.svg?alt=media&token=6be4a5ae-268d-42d5-a20f-cc1f6448e3b6" alt="openai" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/themes/custom/tableau_www/logo.svg" alt="tableau" width="100" height="40"/> </a> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/power-bi-microsoft-seeklogo.svg?alt=media&token=e09975ec-bd4a-47d6-8020-eeca1ee1975b" alt="powerbi" width="100" height="40"/> </a> 
-<!-- <a href="https://platform.openai.com/docs/api-reference/introduction" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f522c230-f4d9-482b-adf3-6f6c2b5a7af2" alt="openai" width="100" height="40"/></a> -->
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-javascript%20(1).svg?alt=media&token=53625aab-b650-454a-a72b-99ed928471bc" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-typescript.svg?alt=media&token=3e30f05e-1c43-4fad-92af-bb3623562f9b" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/java/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="40" height="40"/></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="SQL" width="40" height="40"/></a>
 </p>
 
+### 🤖 AI / Agentic Systems & LLMs
+<p>
+  <a href="https://platform.openai.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-chatgpt.svg?alt=media&token=6be4a5ae-268d-42d5-a20f-cc1f6448e3b6" alt="OpenAI API" width="40" height="40"/></a>
+  <a href="https://www.anthropic.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Claude_Logo_1.png?alt=media&token=0ba5f60c-0fa6-4e7e-80c2-dd80e7e6e004" alt="Claude AI" width="40" height="40"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Langchain--Streamline-Simple-Icons.svg?alt=media&token=fbfca4f9-7e9d-4589-bd12-d0f22c1aaa97" alt="LangChain" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/bedrock/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon Bedrock" width="40" height="40"/></a>
+  <a href="https://vapi.ai/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/va-square-1.png?alt=media&token=02df77ac-584a-400a-ab7c-fcc8405b772d" alt="VAPI" width="40" height="40"/></a>
+  <a href="https://elevenlabs.io/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/elevenlabs.svg?alt=media&token=5e4f44b4-678a-4a5e-9867-9fd2afbb6f56" alt="ElevenLabs" width="40" height="40"/></a>
+  <a href="https://pinecone.io/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Pinecone_Logo_1.png?alt=media&token=67af605b-457e-4499-aba6-34dec0f7cd1b" alt="Pinecone" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/></a>
+  <a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="40" height="40"/></a>
+</p>
 
+### ⚙️ Automation & No-Code/Low-Code
+<p>
+  <a href="https://n8n.io/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/n8n-color.svg?alt=media&token=d0da5d9d-5a7e-4963-bca1-385fa25b1b82" alt="N8N" width="40" height="40"/></a>
+  <a href="https://www.make.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/make-color.svg?alt=media&token=0e549496-e98a-4a09-9c8d-32502018e276" alt="Make.com" width="40" height="40"/></a>
+  <a href="https://manychat.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/manychat.svg?alt=media&token=6d670fed-08e8-4546-94e5-93e85a376bab" alt="ManyChat" width="40" height="40"/></a>
+  <a href="https://pipedream.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/p.png?alt=media&token=cf48252e-e2bb-4c56-a43f-3b63fa053942" alt="Pipedream" width="40" height="40"/></a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/microsoft-power-platform-seeklogo.png?alt=media&token=632040d4-13ac-4924-a3c3-0475b2f95310" alt="Microsoft Power Platform" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/en-us/products/logic-apps" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Logic Apps" width="40" height="40"/></a>
+  <a href="https://apify.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Apify_apify-symbol-safe_1.png?alt=media&token=7946bfc9-4593-4b6d-a22c-fdafca3947e9" alt="Apify" width="40" height="40"/></a>
+</p>
+
+### 🌐 Frontend Technologies
+<p>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/nextjs-icon.svg?alt=media&token=c3b735ae-073a-4e11-8857-c04720fa2b00" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Tailwind%20CSS.png?alt=media&token=e9b0b2c0-458d-44c7-be6f-2fadd8ec8a66" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://mui.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-bootstrap-48.png?alt=media&token=6b27837f-f183-496c-be85-2a4f9a5e7530" alt="Bootstrap" width="40" height="40"/></a>
+</p>
+
+### 🔧 Backend Technologies & Frameworks
+<p>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/FastAPI.png?alt=media&token=780ecc59-584f-4280-8c9e-b80659f06675" alt="FastAPI" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-flask-colorful.svg?alt=media&token=e2e6edc3-dad5-49dc-beaf-f5ec38c96e59" alt="Flask" width="60" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-express-js-40.png?alt=media&token=0d9564fb-1403-4e30-b88f-22ba475e9f33" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/></a>
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/postgresql-ar21.svg?alt=media&token=d242fb3f-4635-481d-b654-6e3e8d574c1b" alt="PostgreSQL" width="60" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis" width="40" height="40"/></a>
+  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Cassandra" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/></a>
+  <a href="https://pinecone.io/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Pinecone_Logo_1.png?alt=media&token=67af605b-457e-4499-aba6-34dec0f7cd1b" alt="Pinecone" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/></a>
+</p>
+
+### ☁️ DevOps, Cloud & Infrastructure
+<p>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Apache Kafka" width="50" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="60" height="40"/></a>
+  <a href="https://nginx.com" target="_blank"><img src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" alt="Nginx" width="60" height="40"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" width="40" height="40"/></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab CI/CD" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-terraform.svg?alt=media&token=82b6d259-8527-4bf9-bd94-01cf81552536" alt="Terraform" width="40" height="40"/></a>
+  <a href="https://www.heroku.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-heroku.svg?alt=media&token=de204412-5b92-4a58-9e7f-a7d82816aac9" alt="Heroku" width="40" height="40"/></a>
+  <a href="https://replit.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-replit-logo-48.svg?alt=media&token=a6198eac-d5a4-4205-992f-54c33f9c07d4" alt="Replit" width="40" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
+</p>
+
+### 🧠 Machine Learning & Data Science
+<p>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="60" height="40"/></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://keras.io/img/logo.png" alt="Keras" width="70" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/numpy-svgrepo-com.svg?alt=media&token=2e495eee-7594-4649-829c-5d7c7eb6780f" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/pandas.svg?alt=media&token=2648f66d-a2d1-41eb-9a8a-1be20b49b8c7" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="40" height="40"/></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/sagemaker/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS SageMaker" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="MLflow" width="70" height="40"/></a>
+</p>
+
+### 📊 CRM, Communications & Business Tools
+<p>
+  <a href="https://www.hubspot.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="HubSpot" width="40" height="40"/></a>
+  <a href="https://www.salesforce.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="40" height="40"/></a>
+  <a href="https://www.zoho.com/crm/" target="_blank"><img src="https://www.vectorlogo.zone/logos/zoho/zoho-icon.svg" alt="Zoho CRM" width="40" height="40"/></a>
+  <a href="https://www.gohighlevel.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/highlevel.png?alt=media&token=659a03ef-1b8e-4d35-8945-cc54a6e319f3" alt="GoHighLevel" width="40" height="40"/></a>
+  <a href="https://www.twilio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio" width="40" height="40"/></a>
+  <a href="https://sendgrid.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sendgrid/sendgrid-icon.svg" alt="SendGrid" width="40" height="40"/></a>
+  <a href="https://stripe.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="40" height="40"/></a>
+  <a href="https://apollo.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apolloio/apolloio-icon.svg" alt="Apollo.io" width="40" height="40"/></a>
+  <a href="https://airtable.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="Airtable" width="40" height="40"/></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack API" width="40" height="40"/></a>
+  <a href="https://www.whatsapp.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp API" width="40" height="40"/></a>
+  <a href="https://zoom.us/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Zoom.png?alt=media&token=acb5f858-5217-4835-8523-65722d461890" alt="Zoom API" width="40" height="40"/></a>
+</p>
+
+### 📈 Analytics & Visualization
+<p>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/power-bi-microsoft-seeklogo.svg?alt=media&token=e09975ec-bd4a-47d6-8020-eeca1ee1975b" alt="Power BI" width="80" height="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.svg" alt="Tableau" width="80" height="40"/></a>
+  <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/></a>
+</p>
+
+### 🌐 Web Scraping & Data Pipelines
+<p>
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Beautiful Soup" width="40" height="40"/></a>
+  <a href="https://scrapy.org/" target="_blank"><img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="80" height="40"/></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/kafka-svgrepo-com.svg?alt=media&token=d99118e0-81a8-4cb6-b6db-bdaeb8ef1e7b" alt="Kafka" width="50" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="60" height="40"/></a>
+</p>
+
+### 🧰 Other Tools & Utilities
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-git.svg?alt=media&token=cc19536a-db3e-4519-98b4-5ed836e0d5e1" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/icons8-github%20(1).svg?alt=media&token=cd3bd5d3-eb77-4824-aaec-6a8118e69b70" alt="GitHub Actions" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="40" height="40"/></a>
+  <a href="https://yarnpkg.com/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="Yarn" width="40" height="40"/></a>
+  <a href="https://pypi.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" alt="pip" width="40" height="40"/></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/></a>
+  <a href="https://www.trello.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello API" width="40" height="40"/></a>
+</p>
+
+### 🎬 Generative AI & Media Tools
+<p>
+  <a href="https://openai.com/sora" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/OpenAI_Symbol_1.png?alt=media&token=923cee6f-664e-4bc5-b6d7-e444366e1978" alt="Sora 2 API" width="40" height="40"/></a>
+  <a href="https://deepmind.google/technologies/veo/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/images-1ae26.appspot.com/o/Google-Veo-3-Logo-PNG.png?alt=media&token=030b28ed-ec90-4f28-8ca5-208301e8c3f3" alt="Google Veo 3.1 API" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmanX191&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Usman's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanX191&theme=tokyonight&hide_border=true" width="48%" alt="Usman's Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanX191&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="50%" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usmanX191&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanX191&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🎯 Core Expertise
+
+```text
+Agentic AI & LLM Systems      ██████████████████████   Expert
+Voice AI & Chatbots            ████████████████████░░   Advanced
+n8n / Make / Workflow Auto     ██████████████████████   Expert
+AWS Cloud Architecture         ████████████████████░░   Advanced
+FastAPI / Python Backend       ██████████████████████   Expert
+LangChain / RAG Systems        ████████████████████░░   Advanced
+CRM Integrations               ██████████████████████   Expert
+Data Pipelines (Kafka/Spark)   ████████████████░░░░░░   Proficient
+```
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| IBM Backend Development | IBM |
+| Advanced Foundation of Python Programming | — |
+| AWS Cloud Technical Essentials | Amazon Web Services |
+| AWS Beginner to Intermediate (EC2, IAM, ELB, ASG, Route 53) | Amazon Web Services |
+| Machine Learning Specialization | Stanford University / Coursera |
+| Samsung Innovation Campus – Artificial Intelligence | Samsung |
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=120&section=footer&text=Let's%20Build%20Intelligent%20Systems%20Together&fontSize=20&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <b>🌐 <a href="https://usmanmahmood.tech/">usmanmahmood.tech</a> · 📧 <a href="mailto:contact@usmanmahmood.tech">contact@usmanmahmood.tech</a> · 📧 <a href="mailto:usmanmehmood770@gmail.com">usmanmehmood770@gmail.com</a></b>
+</p>
