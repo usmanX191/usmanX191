@@ -55,39 +55,6 @@ I build production-grade agentic AI systems, multi-cloud voice agents, and LLM-d
 
 ---
 
-## Core Expertise
-
-| Area | Level |
-|------|-------|
-| Agentic AI & LLM Systems | Expert |
-| n8n / Make / Workflow Automation | Expert |
-| FastAPI / Python Backend | Expert |
-| CRM Integrations | Expert |
-| Voice AI & Chatbots | Advanced |
-| AWS Cloud Architecture | Advanced |
-| LangChain / RAG / MCP Servers | Advanced |
-| Microsoft Power Platform | Advanced |
-| Data Pipelines (Kafka / Spark) | Proficient |
-
----
-
-## Certifications
-
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| Model Context Protocol: Advanced Topics | Anthropic | 2026 |
-| Introduction to Model Context Protocol | Anthropic | 2025 |
-| IBM Full Stack Software Developer | IBM | 2024 |
-| IBM Backend Development | IBM | 2024 |
-| AWS Cloud Technical Essentials | Amazon Web Services | 2024 |
-| AWS Beginner to Intermediate | Amazon Web Services | 2023 |
-| Machine Learning Specialization | Stanford / Coursera | 2023 |
-| Microsoft 365 Fundamentals | Microsoft | 2023 |
-| Meta React Native | Meta | 2023 |
-| Samsung Innovation Campus – AI | Samsung | 2022 |
-
----
-
 ## Get In Touch
 
 I'm open to freelance projects, collaborations, and full-time opportunities in AI automation and agentic systems.
