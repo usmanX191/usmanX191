@@ -2,7 +2,7 @@
 
 **Senior AI Automation Engineer · Agentic AI Systems Architect · LLM Integration Expert**
 
-I build production-grade agentic AI systems, multi-cloud voice agents, and LLM-driven workflow automations across AWS and Microsoft platforms. Currently deep-diving into **[OpenClaw](https://openclaw.io)** and **[AWS](https://aws.amazon.com)** — building intelligent, scalable contact center and voice AI solutions.
+I build production-grade agentic AI systems, multi-cloud voice agents, and LLM-driven workflow automations across AWS and Microsoft platforms. Currently deep-diving into **[OpenClaw](https://openclaw.ai)** and **[AWS](https://aws.amazon.com)** — building intelligent, scalable contact center and voice AI solutions.
 
 🌍 Remote &nbsp;|&nbsp; 🌐 [usmanmahmood.tech](https://usmanmahmood.tech) &nbsp;|&nbsp; 📧 [contact@usmanmahmood.tech](mailto:contact@usmanmahmood.tech)
 
@@ -17,7 +17,7 @@ I build production-grade agentic AI systems, multi-cloud voice agents, and LLM-d
 ## About Me
 
 - 🤖 Specializing in **Agentic AI**, **RAG pipelines**, **[MCP servers](https://modelcontextprotocol.io)**, and **multi-LLM orchestration**
-- 🔭 Currently exploring and working on **[OpenClaw](https://openclaw.io)** and **[AWS](https://aws.amazon.com)** — voice AI, contact center automation, and real-time agent assist
+- 🔭 Currently exploring and working on **[OpenClaw](https://openclaw.ai)** and **[AWS](https://aws.amazon.com)** — voice AI, contact center automation, and real-time agent assist
 - ☁️ Experienced with **[AWS](https://aws.amazon.com)** ([Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/), [Lambda](https://aws.amazon.com/lambda/), [Connect](https://aws.amazon.com/connect/), [SageMaker](https://aws.amazon.com/sagemaker/), [Lex](https://aws.amazon.com/lex/), [Transcribe](https://aws.amazon.com/transcribe/)) and **[Microsoft Power Platform](https://powerplatform.microsoft.com)**
 - ⚙️ Building intelligent automation workflows with **[n8n](https://n8n.io)**, **[Make](https://make.com)**, **[Power Automate](https://powerautomate.microsoft.com)**, and **[Azure Logic Apps](https://azure.microsoft.com/en-us/products/logic-apps)**
 - 🎙️ Developing production voice AI agents using **[VAPI](https://vapi.ai)**, **[ElevenLabs](https://elevenlabs.io)**, **[Twilio](https://twilio.com)**, and **[Amazon Polly](https://aws.amazon.com/polly/)**
@@ -30,7 +30,7 @@ I build production-grade agentic AI systems, multi-cloud voice agents, and LLM-d
 
 | Project | Description |
 |---------|-------------|
-| **[OpenClaw](https://openclaw.io)** | Exploring agentic AI capabilities and building intelligent automation workflows |
+| **[OpenClaw](https://openclaw.ai)** | Exploring agentic AI capabilities and building intelligent automation workflows |
 | **[AWS Connect](https://aws.amazon.com/connect/)** | Designing AI-powered contact center solutions with real-time transcription, sentiment analysis, and LLM-driven agent assist |
 | **[AWS Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)** | Building and deploying production-grade agentic AI systems on AWS |
 | **[Amazon SageMaker](https://aws.amazon.com/sagemaker/)** | Fine-tuning and deploying custom LLMs for domain-specific use cases |
@@ -55,7 +55,7 @@ I build production-grade agentic AI systems, multi-cloud voice agents, and LLM-d
 [`OpenAI Embeddings`](https://platform.openai.com/docs/guides/embeddings) [`Cohere Embeddings`](https://cohere.com/embeddings) [`Sentence Transformers`](https://sbert.net)
 
 ### ⚙️ Automation, No-Code / Low-Code & Microsoft Power Platform
-[`OpenClaw`](https://openclaw.io) [`n8n`](https://n8n.io) [`Make.com`](https://make.com) [`Power Automate`](https://powerautomate.microsoft.com) [`Power Apps`](https://powerapps.microsoft.com) [`Copilot Studio`](https://copilotstudio.microsoft.com) [`Azure Logic Apps`](https://azure.microsoft.com/en-us/products/logic-apps)
+[`OpenClaw`](https://openclaw.ai) [`n8n`](https://n8n.io) [`Make.com`](https://make.com) [`Power Automate`](https://powerautomate.microsoft.com) [`Power Apps`](https://powerapps.microsoft.com) [`Copilot Studio`](https://copilotstudio.microsoft.com) [`Azure Logic Apps`](https://azure.microsoft.com/en-us/products/logic-apps)
 [`ManyChat`](https://manychat.com) [`Pipedream`](https://pipedream.com) [`Zapier`](https://zapier.com) [`Activepieces`](https://activepieces.com)
 
 ### 💻 Languages
