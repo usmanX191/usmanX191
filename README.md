@@ -118,25 +118,8 @@ I build production-grade agentic AI systems, multi-cloud voice agents, and LLM-d
 | LangChain / LangGraph / MCP Servers | Advanced |
 | Microsoft Power Platform | Advanced |
 | ML / Fine-tuning (LoRA, RLHF) | Advanced |
-| Data Pipelines (Kafka / Spark) | Proficient |
+| ETL Data Pipelines (Kafka / Spark) | Proficient |
 | Frontend (React / Next.js) | Proficient |
-
----
-
-## Certifications
-
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| [Model Context Protocol: Advanced Topics](https://anthropic.com) | [Anthropic](https://anthropic.com) | 2026 |
-| [Introduction to Model Context Protocol](https://anthropic.com) | [Anthropic](https://anthropic.com) | 2025 |
-| [IBM Full Stack Software Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) | [IBM](https://ibm.com) | 2024 |
-| [IBM Backend Development](https://www.coursera.org/professional-certificates/ibm-backend-development) | [IBM](https://ibm.com) | 2024 |
-| [AWS Cloud Technical Essentials](https://aws.amazon.com/training/) | [Amazon Web Services](https://aws.amazon.com) | 2024 |
-| [AWS Beginner to Intermediate (EC2, IAM, ELB, ASG, Route 53)](https://aws.amazon.com/training/) | [Amazon Web Services](https://aws.amazon.com) | 2023 |
-| [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | [Stanford University / Coursera](https://coursera.org) | 2023 |
-| [Microsoft 365 Fundamentals](https://learn.microsoft.com/en-us/certifications/microsoft-365-fundamentals/) | [Microsoft](https://microsoft.com) | 2023 |
-| [Meta React Native](https://www.coursera.org/professional-certificates/meta-react-native) | [Meta](https://meta.com) | 2023 |
-| [Samsung Innovation Campus – AI](https://www.samsung.com/global/sustainability/samsunginnovationcampus/) | [Samsung](https://samsung.com) | 2022 |
 
 ---
 
@@ -147,4 +130,3 @@ Available for freelance projects, collaborations, and full-time remote opportuni
 - 🌐 [usmanmahmood.tech](https://usmanmahmood.tech)
 - 💼 [LinkedIn](https://linkedin.com/in/usman-mahmood-1b54851a0)
 - 📧 [contact@usmanmahmood.tech](mailto:contact@usmanmahmood.tech)
-- 📧 [usmanmehmood770@gmail.com](mailto:usmanmehmood770@gmail.com)
